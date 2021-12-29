@@ -1,0 +1,1001 @@
+SOC,Title,Element_ID,Element_Name,Category,Description,Data_Value
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",1,None,26.49
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",3.24
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.64
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",0.43
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",5.55
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",19.36
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",7.83
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",13.85
+11-1011.00,"Chief Executives",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",9.61
+11-1011.03,"Chief Sustainability Officers",3.A.2,"On-Site or In-Plant Training",1,None,40.74
+11-1011.03,"Chief Sustainability Officers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",22.22
+11-1011.03,"Chief Sustainability Officers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",7.41
+11-1011.03,"Chief Sustainability Officers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",7.41
+11-1011.03,"Chief Sustainability Officers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",7.41
+11-1011.03,"Chief Sustainability Officers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",7.41
+11-1011.03,"Chief Sustainability Officers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",7.41
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",1,None,6.82
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",27.29
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",12.03
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15.58
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",16.76
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",11.53
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.83
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.84
+11-1021.00,"General and Operations Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",0.31
+11-2011.00,"Advertising and Promotions Managers",3.A.2,"On-Site or In-Plant Training",1,None,22.39
+11-2011.00,"Advertising and Promotions Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",25.12
+11-2011.00,"Advertising and Promotions Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",21.26
+11-2011.00,"Advertising and Promotions Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",10.12
+11-2011.00,"Advertising and Promotions Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",7.34
+11-2011.00,"Advertising and Promotions Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",6.45
+11-2011.00,"Advertising and Promotions Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",2.42
+11-2011.00,"Advertising and Promotions Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",4.9
+11-2021.00,"Marketing Managers",3.A.2,"On-Site or In-Plant Training",1,None,33.95
+11-2021.00,"Marketing Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",14.98
+11-2021.00,"Marketing Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",32.96
+11-2021.00,"Marketing Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",11.25
+11-2021.00,"Marketing Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",5.71
+11-2021.00,"Marketing Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",1.15
+11-2022.00,"Sales Managers",3.A.2,"On-Site or In-Plant Training",1,None,4.35
+11-2022.00,"Sales Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",21.74
+11-2022.00,"Sales Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",26.09
+11-2022.00,"Sales Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",17.39
+11-2022.00,"Sales Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",17.39
+11-2022.00,"Sales Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8.7
+11-2022.00,"Sales Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.35
+11-3012.00,"Administrative Services Managers",3.A.2,"On-Site or In-Plant Training",1,None,13.82
+11-3012.00,"Administrative Services Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",14.5
+11-3012.00,"Administrative Services Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",34.62
+11-3012.00,"Administrative Services Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",13.03
+11-3012.00,"Administrative Services Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",17.86
+11-3012.00,"Administrative Services Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",3.39
+11-3012.00,"Administrative Services Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",1.38
+11-3012.00,"Administrative Services Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",1.41
+11-3021.00,"Computer and Information Systems Managers",3.A.2,"On-Site or In-Plant Training",1,None,16.82
+11-3021.00,"Computer and Information Systems Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",31.64
+11-3021.00,"Computer and Information Systems Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",5.33
+11-3021.00,"Computer and Information Systems Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",6.9
+11-3021.00,"Computer and Information Systems Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",23
+11-3021.00,"Computer and Information Systems Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",9.72
+11-3021.00,"Computer and Information Systems Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",6.58
+11-3031.01,"Treasurers and Controllers",3.A.2,"On-Site or In-Plant Training",1,None,28
+11-3031.01,"Treasurers and Controllers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",16
+11-3031.01,"Treasurers and Controllers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",8
+11-3031.01,"Treasurers and Controllers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",20
+11-3031.01,"Treasurers and Controllers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",12
+11-3031.01,"Treasurers and Controllers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8
+11-3031.01,"Treasurers and Controllers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",8
+11-3031.03,"Investment Fund Managers",3.A.2,"On-Site or In-Plant Training",1,None,27.75
+11-3031.03,"Investment Fund Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",14.84
+11-3031.03,"Investment Fund Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.11
+11-3031.03,"Investment Fund Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.18
+11-3031.03,"Investment Fund Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",14.96
+11-3031.03,"Investment Fund Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10.58
+11-3031.03,"Investment Fund Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",6.07
+11-3031.03,"Investment Fund Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",3.52
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",1,None,10.41
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",15.3
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",17.3
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",11.06
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",14.28
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",16.13
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.8
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5.25
+11-3051.00,"Industrial Production Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",5.45
+11-3051.01,"Quality Control Systems Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",28.79
+11-3051.01,"Quality Control Systems Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",28.07
+11-3051.01,"Quality Control Systems Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",3.55
+11-3051.01,"Quality Control Systems Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",25.37
+11-3051.01,"Quality Control Systems Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",11.9
+11-3051.01,"Quality Control Systems Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",2.32
+11-3051.02,"Geothermal Production Managers",3.A.2,"On-Site or In-Plant Training",1,None,2.61
+11-3051.02,"Geothermal Production Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.56
+11-3051.02,"Geothermal Production Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",7.19
+11-3051.02,"Geothermal Production Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",23.73
+11-3051.02,"Geothermal Production Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",18.48
+11-3051.02,"Geothermal Production Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",2.61
+11-3051.02,"Geothermal Production Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",30.16
+11-3051.02,"Geothermal Production Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",5.66
+11-3051.03,"Biofuels Production Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",12.7
+11-3051.03,"Biofuels Production Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",11.06
+11-3051.03,"Biofuels Production Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",27.19
+11-3051.03,"Biofuels Production Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",37.32
+11-3051.03,"Biofuels Production Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",6.73
+11-3051.03,"Biofuels Production Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5
+11-3051.04,"Biomass Power Plant Managers",3.A.2,"On-Site or In-Plant Training",1,None,1.76
+11-3051.04,"Biomass Power Plant Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",16.55
+11-3051.04,"Biomass Power Plant Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",28.49
+11-3051.04,"Biomass Power Plant Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",16.39
+11-3051.04,"Biomass Power Plant Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",0.9
+11-3051.04,"Biomass Power Plant Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",6.83
+11-3051.04,"Biomass Power Plant Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",28.21
+11-3051.04,"Biomass Power Plant Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",0.88
+11-3051.06,"Hydroelectric Production Managers",3.A.2,"On-Site or In-Plant Training",1,None,4.48
+11-3051.06,"Hydroelectric Production Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",8.7
+11-3051.06,"Hydroelectric Production Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",10.27
+11-3051.06,"Hydroelectric Production Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",11.68
+11-3051.06,"Hydroelectric Production Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",10.61
+11-3051.06,"Hydroelectric Production Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",16.04
+11-3051.06,"Hydroelectric Production Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",26.46
+11-3051.06,"Hydroelectric Production Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",11.76
+11-3061.00,"Purchasing Managers",3.A.2,"On-Site or In-Plant Training",1,None,14.29
+11-3061.00,"Purchasing Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",14.29
+11-3061.00,"Purchasing Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.76
+11-3061.00,"Purchasing Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",28.57
+11-3061.00,"Purchasing Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",4.76
+11-3061.00,"Purchasing Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",14.29
+11-3061.00,"Purchasing Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",19.05
+11-3071.04,"Supply Chain Managers",3.A.2,"On-Site or In-Plant Training",1,None,9.52
+11-3071.04,"Supply Chain Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.05
+11-3071.04,"Supply Chain Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",23.81
+11-3071.04,"Supply Chain Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",14.29
+11-3071.04,"Supply Chain Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",9.52
+11-3071.04,"Supply Chain Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.52
+11-3071.04,"Supply Chain Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",14.29
+11-3111.00,"Compensation and Benefits Managers",3.A.2,"On-Site or In-Plant Training",1,None,28.57
+11-3111.00,"Compensation and Benefits Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",23.81
+11-3111.00,"Compensation and Benefits Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.76
+11-3111.00,"Compensation and Benefits Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",14.29
+11-3111.00,"Compensation and Benefits Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",9.52
+11-3111.00,"Compensation and Benefits Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",9.52
+11-3111.00,"Compensation and Benefits Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.76
+11-3111.00,"Compensation and Benefits Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.76
+11-3121.00,"Human Resources Managers",3.A.2,"On-Site or In-Plant Training",1,None,33.33
+11-3121.00,"Human Resources Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20.83
+11-3121.00,"Human Resources Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",8.33
+11-3121.00,"Human Resources Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8.33
+11-3121.00,"Human Resources Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",16.67
+11-3121.00,"Human Resources Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8.33
+11-3121.00,"Human Resources Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.17
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",1,None,11.11
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",18.52
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",22.22
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",7.41
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",3.7
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",14.81
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",11.11
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",7.41
+11-3131.00,"Training and Development Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",3.7
+11-9021.00,"Construction Managers",3.A.2,"On-Site or In-Plant Training",1,None,5
+11-9021.00,"Construction Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",30
+11-9021.00,"Construction Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",15
+11-9021.00,"Construction Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",20
+11-9021.00,"Construction Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",15
+11-9021.00,"Construction Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",10
+11-9021.00,"Construction Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",5
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.2,"On-Site or In-Plant Training",1,None,9.82
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20.06
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",14.26
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",6.25
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",8.22
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8.31
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",29.79
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",3.28
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",1,None,12.37
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",31.31
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",0.24
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",5.39
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",18.41
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",19.29
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",8.36
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.49
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",0.14
+11-9033.00,"Education Administrators, Postsecondary",3.A.2,"On-Site or In-Plant Training",1,None,32.56
+11-9033.00,"Education Administrators, Postsecondary",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",1.56
+11-9033.00,"Education Administrators, Postsecondary",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.24
+11-9033.00,"Education Administrators, Postsecondary",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",12.9
+11-9033.00,"Education Administrators, Postsecondary",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",14.35
+11-9033.00,"Education Administrators, Postsecondary",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",15.25
+11-9033.00,"Education Administrators, Postsecondary",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.57
+11-9033.00,"Education Administrators, Postsecondary",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",0.57
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",1,None,6.53
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",18.35
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",5.23
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.03
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",16.26
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5.94
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",20.15
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5.23
+11-9041.00,"Architectural and Engineering Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",13.29
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.2,"On-Site or In-Plant Training",1,None,17.45
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",13.28
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",26.16
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15.25
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",18
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",7.96
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",0.38
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",1.54
+11-9051.00,"Food Service Managers",3.A.2,"On-Site or In-Plant Training",1,None,1.86
+11-9051.00,"Food Service Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",21.3
+11-9051.00,"Food Service Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",6.34
+11-9051.00,"Food Service Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",21
+11-9051.00,"Food Service Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",22.72
+11-9051.00,"Food Service Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",16.19
+11-9051.00,"Food Service Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",8.1
+11-9051.00,"Food Service Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",2.48
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",1,None,15.64
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",29.68
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",20.44
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",11.38
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",11.73
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",3.64
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",3.71
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",2.14
+11-9071.00,"Gambling Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",1.64
+11-9081.00,"Lodging Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",18.32
+11-9081.00,"Lodging Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",35.85
+11-9081.00,"Lodging Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",24.88
+11-9081.00,"Lodging Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",1.31
+11-9081.00,"Lodging Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",1.32
+11-9081.00,"Lodging Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",18.32
+11-9111.00,"Medical and Health Services Managers",3.A.2,"On-Site or In-Plant Training",1,None,11.54
+11-9111.00,"Medical and Health Services Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",34.62
+11-9111.00,"Medical and Health Services Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",19.23
+11-9111.00,"Medical and Health Services Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",19.23
+11-9111.00,"Medical and Health Services Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",3.85
+11-9111.00,"Medical and Health Services Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",11.54
+11-9121.00,"Natural Sciences Managers",3.A.2,"On-Site or In-Plant Training",1,None,9.68
+11-9121.00,"Natural Sciences Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",36.79
+11-9121.00,"Natural Sciences Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",12.08
+11-9121.00,"Natural Sciences Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",7.27
+11-9121.00,"Natural Sciences Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",6.3
+11-9121.00,"Natural Sciences Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",12.46
+11-9121.00,"Natural Sciences Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",8.13
+11-9121.00,"Natural Sciences Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",7.29
+11-9121.01,"Clinical Research Coordinators",3.A.2,"On-Site or In-Plant Training",1,None,9.16
+11-9121.01,"Clinical Research Coordinators",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",25.69
+11-9121.01,"Clinical Research Coordinators",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",17.02
+11-9121.01,"Clinical Research Coordinators",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",27.27
+11-9121.01,"Clinical Research Coordinators",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20.86
+11-9121.02,"Water Resource Specialists",3.A.2,"On-Site or In-Plant Training",1,None,40.91
+11-9121.02,"Water Resource Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",9.09
+11-9121.02,"Water Resource Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.09
+11-9121.02,"Water Resource Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.09
+11-9121.02,"Water Resource Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",9.09
+11-9121.02,"Water Resource Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.55
+11-9121.02,"Water Resource Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",13.64
+11-9121.02,"Water Resource Specialists",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",4.55
+11-9131.00,"Postmasters and Mail Superintendents",3.A.2,"On-Site or In-Plant Training",1,None,6.69
+11-9131.00,"Postmasters and Mail Superintendents",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.04
+11-9131.00,"Postmasters and Mail Superintendents",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.34
+11-9131.00,"Postmasters and Mail Superintendents",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",26.46
+11-9131.00,"Postmasters and Mail Superintendents",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.39
+11-9131.00,"Postmasters and Mail Superintendents",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.75
+11-9131.00,"Postmasters and Mail Superintendents",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",6.69
+11-9131.00,"Postmasters and Mail Superintendents",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",9.63
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.2,"On-Site or In-Plant Training",1,None,10.53
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",21.05
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",21.05
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",15.79
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",15.79
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",10.53
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5.26
+11-9151.00,"Social and Community Service Managers",3.A.2,"On-Site or In-Plant Training",1,None,16.12
+11-9151.00,"Social and Community Service Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.72
+11-9151.00,"Social and Community Service Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",39.94
+11-9151.00,"Social and Community Service Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",10.49
+11-9151.00,"Social and Community Service Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",11.25
+11-9151.00,"Social and Community Service Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",2.48
+11-9161.00,"Emergency Management Directors",3.A.2,"On-Site or In-Plant Training",1,None,28
+11-9161.00,"Emergency Management Directors",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20
+11-9161.00,"Emergency Management Directors",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",8
+11-9161.00,"Emergency Management Directors",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",20
+11-9161.00,"Emergency Management Directors",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",8
+11-9161.00,"Emergency Management Directors",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",8
+11-9161.00,"Emergency Management Directors",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",8
+11-9171.00,"Funeral Home Managers",3.A.2,"On-Site or In-Plant Training",1,None,20.84
+11-9171.00,"Funeral Home Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",16.49
+11-9171.00,"Funeral Home Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",12.49
+11-9171.00,"Funeral Home Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",10.72
+11-9171.00,"Funeral Home Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",38.67
+11-9171.00,"Funeral Home Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",0.8
+11-9179.01,"Fitness and Wellness Coordinators",3.A.2,"On-Site or In-Plant Training",1,None,16.67
+11-9179.01,"Fitness and Wellness Coordinators",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",37.5
+11-9179.01,"Fitness and Wellness Coordinators",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",29.17
+11-9179.01,"Fitness and Wellness Coordinators",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8.33
+11-9179.01,"Fitness and Wellness Coordinators",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8.33
+11-9179.02,"Spa Managers",3.A.2,"On-Site or In-Plant Training",1,None,18.72
+11-9179.02,"Spa Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",23.97
+11-9179.02,"Spa Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",40.59
+11-9179.02,"Spa Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8.58
+11-9179.02,"Spa Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",6.96
+11-9179.02,"Spa Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",1.18
+11-9199.01,"Regulatory Affairs Managers",3.A.2,"On-Site or In-Plant Training",1,None,10.71
+11-9199.01,"Regulatory Affairs Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",17.86
+11-9199.01,"Regulatory Affairs Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",14.29
+11-9199.01,"Regulatory Affairs Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",21.43
+11-9199.01,"Regulatory Affairs Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",10.71
+11-9199.01,"Regulatory Affairs Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10.71
+11-9199.01,"Regulatory Affairs Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",3.57
+11-9199.01,"Regulatory Affairs Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",10.71
+11-9199.02,"Compliance Managers",3.A.2,"On-Site or In-Plant Training",1,None,4.41
+11-9199.02,"Compliance Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",5.08
+11-9199.02,"Compliance Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",14.06
+11-9199.02,"Compliance Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",12.05
+11-9199.02,"Compliance Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.74
+11-9199.02,"Compliance Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",30.86
+11-9199.02,"Compliance Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",18.53
+11-9199.02,"Compliance Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",1.27
+11-9199.08,"Loss Prevention Managers",3.A.2,"On-Site or In-Plant Training",1,None,4.76
+11-9199.08,"Loss Prevention Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",28.57
+11-9199.08,"Loss Prevention Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",19.05
+11-9199.08,"Loss Prevention Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.52
+11-9199.08,"Loss Prevention Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",14.29
+11-9199.08,"Loss Prevention Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",14.29
+11-9199.08,"Loss Prevention Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.76
+11-9199.08,"Loss Prevention Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.76
+11-9199.09,"Wind Energy Operations Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",3.23
+11-9199.09,"Wind Energy Operations Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",7.95
+11-9199.09,"Wind Energy Operations Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",2.93
+11-9199.09,"Wind Energy Operations Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",45.51
+11-9199.09,"Wind Energy Operations Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",16.58
+11-9199.09,"Wind Energy Operations Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",23.79
+11-9199.10,"Wind Energy Development Managers",3.A.2,"On-Site or In-Plant Training",1,None,11.34
+11-9199.10,"Wind Energy Development Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",6.14
+11-9199.10,"Wind Energy Development Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",27.85
+11-9199.10,"Wind Energy Development Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",16.02
+11-9199.10,"Wind Energy Development Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",8.75
+11-9199.10,"Wind Energy Development Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",6.14
+11-9199.10,"Wind Energy Development Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",2.67
+11-9199.10,"Wind Energy Development Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",21.09
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.2,"On-Site or In-Plant Training",1,None,36.36
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",9.09
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.64
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",13.64
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.09
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",13.64
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",4.55
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.2,"On-Site or In-Plant Training",1,None,32.29
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",33.1
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",10.3
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",3.9
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",14.43
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",6
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.2,"On-Site or In-Plant Training",1,None,5.18
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",18.69
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",21.12
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",22.07
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",9.92
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",10.11
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",6.29
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",6.62
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.2,"On-Site or In-Plant Training",1,None,28.19
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",6.02
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",21.74
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",12.84
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",3.63
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",17.11
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",10.48
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.2,"On-Site or In-Plant Training",1,None,27.27
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",22.73
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.09
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.09
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",18.18
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.55
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.09
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",66.46
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",1.47
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",28.39
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",1.47
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",2.21
+13-1041.01,"Environmental Compliance Inspectors",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",30
+13-1041.01,"Environmental Compliance Inspectors",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",20
+13-1041.01,"Environmental Compliance Inspectors",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",10
+13-1041.01,"Environmental Compliance Inspectors",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20
+13-1041.01,"Environmental Compliance Inspectors",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10
+13-1041.01,"Environmental Compliance Inspectors",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5
+13-1041.01,"Environmental Compliance Inspectors",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.2,"On-Site or In-Plant Training",1,None,17.27
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",15.37
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",21.73
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",7.16
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",10.64
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",16.09
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",2.49
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",9.24
+13-1041.04,"Government Property Inspectors and Investigators",3.A.2,"On-Site or In-Plant Training",1,None,9
+13-1041.04,"Government Property Inspectors and Investigators",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",3.59
+13-1041.04,"Government Property Inspectors and Investigators",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",32.3
+13-1041.04,"Government Property Inspectors and Investigators",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",43.33
+13-1041.04,"Government Property Inspectors and Investigators",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",1.46
+13-1041.04,"Government Property Inspectors and Investigators",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",10.32
+13-1041.06,Coroners,3.A.2,"On-Site or In-Plant Training",1,None,25
+13-1041.06,Coroners,3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",15
+13-1041.06,Coroners,3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",15
+13-1041.06,Coroners,3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15
+13-1041.06,Coroners,3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20
+13-1041.06,Coroners,3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5
+13-1041.06,Coroners,3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5
+13-1041.07,"Regulatory Affairs Specialists",3.A.2,"On-Site or In-Plant Training",1,None,15
+13-1041.07,"Regulatory Affairs Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",40
+13-1041.07,"Regulatory Affairs Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",20
+13-1041.07,"Regulatory Affairs Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",10
+13-1041.07,"Regulatory Affairs Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10
+13-1041.07,"Regulatory Affairs Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",1,None,20
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",10
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",20
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",10
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",5
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",20
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5
+13-1041.08,"Customs Brokers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",5
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",1,None,31.82
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",4.55
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.55
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.09
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.64
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.55
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",13.64
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",13.64
+13-1051.00,"Cost Estimators",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",4.55
+13-1071.00,"Human Resources Specialists",3.A.2,"On-Site or In-Plant Training",1,None,32.29
+13-1071.00,"Human Resources Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",8.32
+13-1071.00,"Human Resources Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.99
+13-1071.00,"Human Resources Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8
+13-1071.00,"Human Resources Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",7.6
+13-1071.00,"Human Resources Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",20.1
+13-1071.00,"Human Resources Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.71
+13-1074.00,"Farm Labor Contractors",3.A.2,"On-Site or In-Plant Training",1,None,46.65
+13-1074.00,"Farm Labor Contractors",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",0.14
+13-1074.00,"Farm Labor Contractors",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",1.1
+13-1074.00,"Farm Labor Contractors",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",33.41
+13-1074.00,"Farm Labor Contractors",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",18.7
+13-1075.00,"Labor Relations Specialists",3.A.2,"On-Site or In-Plant Training",1,None,10
+13-1075.00,"Labor Relations Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20
+13-1075.00,"Labor Relations Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",20
+13-1075.00,"Labor Relations Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15
+13-1075.00,"Labor Relations Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20
+13-1075.00,"Labor Relations Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5
+13-1075.00,"Labor Relations Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5
+13-1075.00,"Labor Relations Specialists",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5
+13-1081.00,Logisticians,3.A.2,"On-Site or In-Plant Training",1,None,16.67
+13-1081.00,Logisticians,3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",25
+13-1081.00,Logisticians,3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",16.67
+13-1081.00,Logisticians,3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",12.5
+13-1081.00,Logisticians,3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",16.67
+13-1081.00,Logisticians,3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.17
+13-1081.00,Logisticians,3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",8.33
+13-1081.01,"Logistics Engineers",3.A.2,"On-Site or In-Plant Training",1,None,25
+13-1081.01,"Logistics Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",15
+13-1081.01,"Logistics Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",5
+13-1081.01,"Logistics Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15
+13-1081.01,"Logistics Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20
+13-1081.01,"Logistics Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10
+13-1081.01,"Logistics Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",10
+13-1081.02,"Logistics Analysts",3.A.2,"On-Site or In-Plant Training",1,None,4.55
+13-1081.02,"Logistics Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",36.36
+13-1081.02,"Logistics Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.09
+13-1081.02,"Logistics Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.09
+13-1081.02,"Logistics Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.64
+13-1081.02,"Logistics Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",13.64
+13-1081.02,"Logistics Analysts",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.09
+13-1081.02,"Logistics Analysts",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.55
+13-1111.00,"Management Analysts",3.A.2,"On-Site or In-Plant Training",1,None,15.38
+13-1111.00,"Management Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",7.69
+13-1111.00,"Management Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",23.08
+13-1111.00,"Management Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",11.54
+13-1111.00,"Management Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",15.38
+13-1111.00,"Management Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",11.54
+13-1111.00,"Management Analysts",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",3.85
+13-1111.00,"Management Analysts",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",11.54
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.2,"On-Site or In-Plant Training",1,None,35.17
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",13.42
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.72
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",4.32
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",9.81
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8.79
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",11.07
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",7.7
+13-1131.00,Fundraisers,3.A.2,"On-Site or In-Plant Training",1,None,33.33
+13-1131.00,Fundraisers,3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.05
+13-1131.00,Fundraisers,3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.52
+13-1131.00,Fundraisers,3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",14.29
+13-1131.00,Fundraisers,3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",23.81
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.2,"On-Site or In-Plant Training",1,None,41.67
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",8.33
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.17
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",12.5
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",29.17
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.17
+13-1151.00,"Training and Development Specialists",3.A.2,"On-Site or In-Plant Training",1,None,14.29
+13-1151.00,"Training and Development Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",14.29
+13-1151.00,"Training and Development Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",22.86
+13-1151.00,"Training and Development Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",11.43
+13-1151.00,"Training and Development Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20
+13-1151.00,"Training and Development Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5.71
+13-1151.00,"Training and Development Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5.71
+13-1151.00,"Training and Development Specialists",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5.71
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.2,"On-Site or In-Plant Training",1,None,47.83
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",17.39
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",17.39
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8.7
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",4.35
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.35
+13-1161.01,"Search Marketing Strategists",3.A.2,"On-Site or In-Plant Training",1,None,21.74
+13-1161.01,"Search Marketing Strategists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",30.43
+13-1161.01,"Search Marketing Strategists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",17.39
+13-1161.01,"Search Marketing Strategists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",4.35
+13-1161.01,"Search Marketing Strategists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",21.74
+13-1161.01,"Search Marketing Strategists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.35
+13-1199.04,"Business Continuity Planners",3.A.2,"On-Site or In-Plant Training",1,None,27.27
+13-1199.04,"Business Continuity Planners",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",9.09
+13-1199.04,"Business Continuity Planners",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.64
+13-1199.04,"Business Continuity Planners",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",13.64
+13-1199.04,"Business Continuity Planners",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.64
+13-1199.04,"Business Continuity Planners",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.55
+13-1199.04,"Business Continuity Planners",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",18.18
+13-1199.05,"Sustainability Specialists",3.A.2,"On-Site or In-Plant Training",1,None,30.43
+13-1199.05,"Sustainability Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",30.43
+13-1199.05,"Sustainability Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.35
+13-1199.05,"Sustainability Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8.7
+13-1199.05,"Sustainability Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",4.35
+13-1199.05,"Sustainability Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",13.04
+13-1199.05,"Sustainability Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",8.7
+13-1199.06,"Online Merchants",3.A.2,"On-Site or In-Plant Training",1,None,16.61
+13-1199.06,"Online Merchants",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",17.39
+13-1199.06,"Online Merchants",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",18.88
+13-1199.06,"Online Merchants",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",26.49
+13-1199.06,"Online Merchants",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",12.38
+13-1199.06,"Online Merchants",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",2.68
+13-1199.06,"Online Merchants",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5.56
+13-2031.00,"Budget Analysts",3.A.2,"On-Site or In-Plant Training",1,None,16.43
+13-2031.00,"Budget Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",17.67
+13-2031.00,"Budget Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",11.16
+13-2031.00,"Budget Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",6.26
+13-2031.00,"Budget Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",19.65
+13-2031.00,"Budget Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",7.56
+13-2031.00,"Budget Analysts",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",18.61
+13-2031.00,"Budget Analysts",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",2.67
+13-2041.00,"Credit Analysts",3.A.2,"On-Site or In-Plant Training",1,None,30
+13-2041.00,"Credit Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20
+13-2041.00,"Credit Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",25
+13-2041.00,"Credit Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15
+13-2041.00,"Credit Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",5
+13-2041.00,"Credit Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5
+13-2052.00,"Personal Financial Advisors",3.A.2,"On-Site or In-Plant Training",1,None,17.39
+13-2052.00,"Personal Financial Advisors",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",13.04
+13-2052.00,"Personal Financial Advisors",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.04
+13-2052.00,"Personal Financial Advisors",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",4.35
+13-2052.00,"Personal Financial Advisors",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",34.78
+13-2052.00,"Personal Financial Advisors",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",13.04
+13-2052.00,"Personal Financial Advisors",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.35
+13-2053.00,"Insurance Underwriters",3.A.2,"On-Site or In-Plant Training",1,None,26.67
+13-2053.00,"Insurance Underwriters",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",3.33
+13-2053.00,"Insurance Underwriters",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",6.67
+13-2053.00,"Insurance Underwriters",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",23.33
+13-2053.00,"Insurance Underwriters",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",30
+13-2053.00,"Insurance Underwriters",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10
+13-2061.00,"Financial Examiners",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",8.7
+13-2061.00,"Financial Examiners",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",8.7
+13-2061.00,"Financial Examiners",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",4.35
+13-2061.00,"Financial Examiners",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",8.7
+13-2061.00,"Financial Examiners",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",13.04
+13-2061.00,"Financial Examiners",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",47.83
+13-2061.00,"Financial Examiners",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",8.7
+13-2071.00,"Credit Counselors",3.A.2,"On-Site or In-Plant Training",1,None,4.17
+13-2071.00,"Credit Counselors",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",16.67
+13-2071.00,"Credit Counselors",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",25
+13-2071.00,"Credit Counselors",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",25
+13-2071.00,"Credit Counselors",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20.83
+13-2071.00,"Credit Counselors",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8.33
+13-2072.00,"Loan Officers",3.A.2,"On-Site or In-Plant Training",1,None,18.84
+13-2072.00,"Loan Officers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",9.5
+13-2072.00,"Loan Officers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",18.08
+13-2072.00,"Loan Officers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",11.52
+13-2072.00,"Loan Officers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",12.78
+13-2072.00,"Loan Officers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",15.1
+13-2072.00,"Loan Officers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.02
+13-2072.00,"Loan Officers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5.17
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.2,"On-Site or In-Plant Training",1,None,3.7
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.09
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",16.57
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15.76
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",25.99
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",18.89
+13-2082.00,"Tax Preparers",3.A.2,"On-Site or In-Plant Training",1,None,9.09
+13-2082.00,"Tax Preparers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",18.18
+13-2082.00,"Tax Preparers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",22.73
+13-2082.00,"Tax Preparers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",27.27
+13-2082.00,"Tax Preparers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",18.18
+13-2082.00,"Tax Preparers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.55
+13-2099.01,"Financial Quantitative Analysts",3.A.2,"On-Site or In-Plant Training",1,None,40.91
+13-2099.01,"Financial Quantitative Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",13.64
+13-2099.01,"Financial Quantitative Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.09
+13-2099.01,"Financial Quantitative Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",18.18
+13-2099.01,"Financial Quantitative Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",9.09
+13-2099.01,"Financial Quantitative Analysts",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.55
+13-2099.01,"Financial Quantitative Analysts",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.55
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.2,"On-Site or In-Plant Training",1,None,8
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",16
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",24
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",24
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",12
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",12
+15-1211.00,"Computer Systems Analysts",3.A.2,"On-Site or In-Plant Training",1,None,4.92
+15-1211.00,"Computer Systems Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",32.88
+15-1211.00,"Computer Systems Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",27.77
+15-1211.00,"Computer Systems Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.63
+15-1211.00,"Computer Systems Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",3.67
+15-1211.00,"Computer Systems Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10.55
+15-1211.00,"Computer Systems Analysts",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",10.58
+15-1211.01,"Health Informatics Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",13.64
+15-1211.01,"Health Informatics Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",18.18
+15-1211.01,"Health Informatics Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",27.27
+15-1211.01,"Health Informatics Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",22.73
+15-1211.01,"Health Informatics Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",9.09
+15-1211.01,"Health Informatics Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.09
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",1,None,22.65
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",12.1
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",14.96
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",17.58
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.98
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",2.27
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",2.01
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",11.66
+15-1212.00,"Information Security Analysts",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",2.8
+15-1221.00,"Computer and Information Research Scientists",3.A.2,"On-Site or In-Plant Training",1,None,6.11
+15-1221.00,"Computer and Information Research Scientists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",26.62
+15-1221.00,"Computer and Information Research Scientists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",23.47
+15-1221.00,"Computer and Information Research Scientists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",4.54
+15-1221.00,"Computer and Information Research Scientists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",22.24
+15-1221.00,"Computer and Information Research Scientists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",17.01
+15-1231.00,"Computer Network Support Specialists",3.A.2,"On-Site or In-Plant Training",1,None,6.19
+15-1231.00,"Computer Network Support Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",14.39
+15-1231.00,"Computer Network Support Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",0.52
+15-1231.00,"Computer Network Support Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",21.78
+15-1231.00,"Computer Network Support Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",25.25
+15-1231.00,"Computer Network Support Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",6.96
+15-1231.00,"Computer Network Support Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",21.29
+15-1231.00,"Computer Network Support Specialists",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",3.61
+15-1232.00,"Computer User Support Specialists",3.A.2,"On-Site or In-Plant Training",1,None,13.74
+15-1232.00,"Computer User Support Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",33.45
+15-1232.00,"Computer User Support Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",7.66
+15-1232.00,"Computer User Support Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",30.6
+15-1232.00,"Computer User Support Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",9.29
+15-1232.00,"Computer User Support Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.04
+15-1232.00,"Computer User Support Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",1.22
+15-1241.00,"Computer Network Architects",3.A.2,"On-Site or In-Plant Training",1,None,22.73
+15-1241.00,"Computer Network Architects",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",13.64
+15-1241.00,"Computer Network Architects",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.64
+15-1241.00,"Computer Network Architects",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",18.18
+15-1241.00,"Computer Network Architects",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",18.18
+15-1241.00,"Computer Network Architects",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.55
+15-1241.00,"Computer Network Architects",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.55
+15-1241.00,"Computer Network Architects",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.55
+15-1241.01,"Telecommunications Engineering Specialists",3.A.2,"On-Site or In-Plant Training",1,None,9.52
+15-1241.01,"Telecommunications Engineering Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",9.52
+15-1241.01,"Telecommunications Engineering Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",14.29
+15-1241.01,"Telecommunications Engineering Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",14.29
+15-1241.01,"Telecommunications Engineering Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",19.05
+15-1241.01,"Telecommunications Engineering Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",19.05
+15-1241.01,"Telecommunications Engineering Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.76
+15-1241.01,"Telecommunications Engineering Specialists",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",9.52
+15-1242.00,"Database Administrators",3.A.2,"On-Site or In-Plant Training",1,None,4.88
+15-1242.00,"Database Administrators",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",26.97
+15-1242.00,"Database Administrators",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",10.95
+15-1242.00,"Database Administrators",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",21.03
+15-1242.00,"Database Administrators",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",24.1
+15-1242.00,"Database Administrators",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",7.35
+15-1242.00,"Database Administrators",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",0.7
+15-1242.00,"Database Administrators",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.01
+15-1243.00,"Database Architects",3.A.2,"On-Site or In-Plant Training",1,None,16.67
+15-1243.00,"Database Architects",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",25
+15-1243.00,"Database Architects",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",25
+15-1243.00,"Database Architects",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8.33
+15-1243.00,"Database Architects",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.17
+15-1243.00,"Database Architects",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",20.83
+15-1243.01,"Data Warehousing Specialists",3.A.2,"On-Site or In-Plant Training",1,None,26.09
+15-1243.01,"Data Warehousing Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",21.74
+15-1243.01,"Data Warehousing Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",17.39
+15-1243.01,"Data Warehousing Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",17.39
+15-1243.01,"Data Warehousing Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",8.7
+15-1243.01,"Data Warehousing Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.35
+15-1243.01,"Data Warehousing Specialists",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.35
+15-1244.00,"Network and Computer Systems Administrators",3.A.2,"On-Site or In-Plant Training",1,None,19.4
+15-1244.00,"Network and Computer Systems Administrators",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20.99
+15-1244.00,"Network and Computer Systems Administrators",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",7.46
+15-1244.00,"Network and Computer Systems Administrators",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",6.03
+15-1244.00,"Network and Computer Systems Administrators",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",19.99
+15-1244.00,"Network and Computer Systems Administrators",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10.8
+15-1244.00,"Network and Computer Systems Administrators",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",12.54
+15-1244.00,"Network and Computer Systems Administrators",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",2.8
+15-1251.00,"Computer Programmers",3.A.2,"On-Site or In-Plant Training",1,None,35.23
+15-1251.00,"Computer Programmers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",9.92
+15-1251.00,"Computer Programmers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",34.58
+15-1251.00,"Computer Programmers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",3.58
+15-1251.00,"Computer Programmers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",7.75
+15-1251.00,"Computer Programmers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",0.96
+15-1251.00,"Computer Programmers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",1.85
+15-1251.00,"Computer Programmers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",6.14
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.2,"On-Site or In-Plant Training",1,None,3.7
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",48.15
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",25.93
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",7.41
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",7.41
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",3.7
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",3.7
+15-1254.00,"Web Developers",3.A.2,"On-Site or In-Plant Training",1,None,41.67
+15-1254.00,"Web Developers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",12.5
+15-1254.00,"Web Developers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",16.67
+15-1254.00,"Web Developers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",12.5
+15-1254.00,"Web Developers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",12.5
+15-1254.00,"Web Developers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.17
+15-1255.01,"Video Game Designers",3.A.2,"On-Site or In-Plant Training",1,None,52.38
+15-1255.01,"Video Game Designers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",23.81
+15-1255.01,"Video Game Designers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.52
+15-1255.01,"Video Game Designers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.52
+15-1255.01,"Video Game Designers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.76
+15-1299.01,"Web Administrators",3.A.2,"On-Site or In-Plant Training",1,None,30
+15-1299.01,"Web Administrators",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",25
+15-1299.01,"Web Administrators",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",20
+15-1299.01,"Web Administrators",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",5
+15-1299.01,"Web Administrators",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",5
+15-1299.01,"Web Administrators",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5
+15-1299.01,"Web Administrators",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",10
+15-1299.03,"Document Management Specialists",3.A.2,"On-Site or In-Plant Training",1,None,10.53
+15-1299.03,"Document Management Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",26.32
+15-1299.03,"Document Management Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",31.58
+15-1299.03,"Document Management Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",5.26
+15-1299.03,"Document Management Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",15.79
+15-1299.03,"Document Management Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5.26
+15-1299.03,"Document Management Specialists",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5.26
+15-1299.08,"Computer Systems Engineers/Architects",3.A.2,"On-Site or In-Plant Training",1,None,23.33
+15-1299.08,"Computer Systems Engineers/Architects",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",33.33
+15-1299.08,"Computer Systems Engineers/Architects",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.33
+15-1299.08,"Computer Systems Engineers/Architects",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",6.67
+15-1299.08,"Computer Systems Engineers/Architects",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.33
+15-1299.08,"Computer Systems Engineers/Architects",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",6.67
+15-1299.08,"Computer Systems Engineers/Architects",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",3.33
+15-1299.09,"Information Technology Project Managers",3.A.2,"On-Site or In-Plant Training",1,None,4.76
+15-1299.09,"Information Technology Project Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.05
+15-1299.09,"Information Technology Project Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",14.29
+15-1299.09,"Information Technology Project Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",14.29
+15-1299.09,"Information Technology Project Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",33.33
+15-1299.09,"Information Technology Project Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.76
+15-1299.09,"Information Technology Project Managers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",9.52
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",1,None,31.25
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",18.75
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",6.25
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",6.25
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",3.12
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",6.25
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.38
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",15.62
+15-2011.00,Actuaries,3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",3.12
+15-2021.00,Mathematicians,3.A.2,"On-Site or In-Plant Training",1,None,50
+15-2021.00,Mathematicians,3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",8.33
+15-2021.00,Mathematicians,3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",16.67
+15-2021.00,Mathematicians,3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8.33
+15-2021.00,Mathematicians,3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",12.5
+15-2021.00,Mathematicians,3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.17
+15-2031.00,"Operations Research Analysts",3.A.2,"On-Site or In-Plant Training",1,None,45
+15-2031.00,"Operations Research Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",25
+15-2031.00,"Operations Research Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",15
+15-2031.00,"Operations Research Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",5
+15-2031.00,"Operations Research Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",5
+15-2031.00,"Operations Research Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5
+15-2041.00,Statisticians,3.A.2,"On-Site or In-Plant Training",1,None,50
+15-2041.00,Statisticians,3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",15
+15-2041.00,Statisticians,3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",10
+15-2041.00,Statisticians,3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",5
+15-2041.00,Statisticians,3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",10
+15-2041.00,Statisticians,3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5
+15-2041.00,Statisticians,3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5
+15-2041.01,Biostatisticians,3.A.2,"On-Site or In-Plant Training",1,None,16.67
+15-2041.01,Biostatisticians,3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",16.67
+15-2041.01,Biostatisticians,3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",20.83
+15-2041.01,Biostatisticians,3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",25
+15-2041.01,Biostatisticians,3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",8.33
+15-2041.01,Biostatisticians,3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8.33
+15-2041.01,Biostatisticians,3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.17
+15-2051.01,"Business Intelligence Analysts",3.A.2,"On-Site or In-Plant Training",1,None,19.05
+15-2051.01,"Business Intelligence Analysts",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.05
+15-2051.01,"Business Intelligence Analysts",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",14.29
+15-2051.01,"Business Intelligence Analysts",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",19.05
+15-2051.01,"Business Intelligence Analysts",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",4.76
+15-2051.01,"Business Intelligence Analysts",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",9.52
+15-2051.01,"Business Intelligence Analysts",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.52
+15-2051.01,"Business Intelligence Analysts",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.76
+15-2051.02,"Clinical Data Managers",3.A.2,"On-Site or In-Plant Training",1,None,15
+15-2051.02,"Clinical Data Managers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20
+15-2051.02,"Clinical Data Managers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",35
+15-2051.02,"Clinical Data Managers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",20
+15-2051.02,"Clinical Data Managers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",5
+15-2051.02,"Clinical Data Managers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5
+15-2099.01,"Bioinformatics Technicians",3.A.2,"On-Site or In-Plant Training",1,None,36.31
+15-2099.01,"Bioinformatics Technicians",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",3.91
+15-2099.01,"Bioinformatics Technicians",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",10.5
+15-2099.01,"Bioinformatics Technicians",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",0.99
+15-2099.01,"Bioinformatics Technicians",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",47.32
+15-2099.01,"Bioinformatics Technicians",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",0.96
+17-1011.00,"Architects, Except Landscape and Naval",3.A.2,"On-Site or In-Plant Training",1,None,47.62
+17-1011.00,"Architects, Except Landscape and Naval",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.05
+17-1011.00,"Architects, Except Landscape and Naval",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.52
+17-1011.00,"Architects, Except Landscape and Naval",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",4.76
+17-1011.00,"Architects, Except Landscape and Naval",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",9.52
+17-1011.00,"Architects, Except Landscape and Naval",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.52
+17-1012.00,"Landscape Architects",3.A.2,"On-Site or In-Plant Training",1,None,32.14
+17-1012.00,"Landscape Architects",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",14.29
+17-1012.00,"Landscape Architects",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",17.86
+17-1012.00,"Landscape Architects",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",10.71
+17-1012.00,"Landscape Architects",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10.71
+17-1012.00,"Landscape Architects",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",14.29
+17-1021.00,"Cartographers and Photogrammetrists",3.A.2,"On-Site or In-Plant Training",1,None,24.9
+17-1021.00,"Cartographers and Photogrammetrists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",34.56
+17-1021.00,"Cartographers and Photogrammetrists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",22.06
+17-1021.00,"Cartographers and Photogrammetrists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15.66
+17-1021.00,"Cartographers and Photogrammetrists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",0.38
+17-1021.00,"Cartographers and Photogrammetrists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",0.18
+17-1021.00,"Cartographers and Photogrammetrists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",2.27
+17-1022.00,Surveyors,3.A.2,"On-Site or In-Plant Training",1,None,30
+17-1022.00,Surveyors,3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",16.67
+17-1022.00,Surveyors,3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",3.33
+17-1022.00,Surveyors,3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",6.67
+17-1022.00,Surveyors,3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.33
+17-1022.00,Surveyors,3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",6.67
+17-1022.00,Surveyors,3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",13.33
+17-1022.00,Surveyors,3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",10
+17-1022.01,"Geodetic Surveyors",3.A.2,"On-Site or In-Plant Training",1,None,20
+17-1022.01,"Geodetic Surveyors",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20
+17-1022.01,"Geodetic Surveyors",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",10
+17-1022.01,"Geodetic Surveyors",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15
+17-1022.01,"Geodetic Surveyors",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20
+17-1022.01,"Geodetic Surveyors",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10
+17-1022.01,"Geodetic Surveyors",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",5
+17-2011.00,"Aerospace Engineers",3.A.2,"On-Site or In-Plant Training",1,None,6.71
+17-2011.00,"Aerospace Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",29.67
+17-2011.00,"Aerospace Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",11.05
+17-2011.00,"Aerospace Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",8.31
+17-2011.00,"Aerospace Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",17.53
+17-2011.00,"Aerospace Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",13.55
+17-2011.00,"Aerospace Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",6.59
+17-2011.00,"Aerospace Engineers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",6.59
+17-2021.00,"Agricultural Engineers",3.A.2,"On-Site or In-Plant Training",1,None,11.54
+17-2021.00,"Agricultural Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",15.38
+17-2021.00,"Agricultural Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",11.54
+17-2021.00,"Agricultural Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",15.38
+17-2021.00,"Agricultural Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",23.08
+17-2021.00,"Agricultural Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",11.54
+17-2021.00,"Agricultural Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",3.85
+17-2021.00,"Agricultural Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",7.69
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.2,"On-Site or In-Plant Training",1,None,3.45
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",24.14
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",31.03
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",24.14
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",10.34
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",3.45
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",3.45
+17-2041.00,"Chemical Engineers",3.A.2,"On-Site or In-Plant Training",1,None,13.64
+17-2041.00,"Chemical Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",18.18
+17-2041.00,"Chemical Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",22.73
+17-2041.00,"Chemical Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.09
+17-2041.00,"Chemical Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",22.73
+17-2041.00,"Chemical Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",13.64
+17-2051.00,"Civil Engineers",3.A.2,"On-Site or In-Plant Training",1,None,42.86
+17-2051.00,"Civil Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.05
+17-2051.00,"Civil Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.76
+17-2051.00,"Civil Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.52
+17-2051.00,"Civil Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",4.76
+17-2051.00,"Civil Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",9.52
+17-2051.00,"Civil Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",9.52
+17-2051.01,"Transportation Engineers",3.A.2,"On-Site or In-Plant Training",1,None,54.55
+17-2051.01,"Transportation Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",9.09
+17-2051.01,"Transportation Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.55
+17-2051.01,"Transportation Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.09
+17-2051.01,"Transportation Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",9.09
+17-2051.01,"Transportation Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",13.64
+17-2051.02,"Water/Wastewater Engineers",3.A.2,"On-Site or In-Plant Training",1,None,34.78
+17-2051.02,"Water/Wastewater Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",26.09
+17-2051.02,"Water/Wastewater Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.35
+17-2051.02,"Water/Wastewater Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",4.35
+17-2051.02,"Water/Wastewater Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",8.7
+17-2051.02,"Water/Wastewater Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",13.04
+17-2051.02,"Water/Wastewater Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",8.7
+17-2061.00,"Computer Hardware Engineers",3.A.2,"On-Site or In-Plant Training",1,None,17.24
+17-2061.00,"Computer Hardware Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",13.79
+17-2061.00,"Computer Hardware Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",17.24
+17-2061.00,"Computer Hardware Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",17.24
+17-2061.00,"Computer Hardware Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20.69
+17-2061.00,"Computer Hardware Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",10.34
+17-2061.00,"Computer Hardware Engineers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",3.45
+17-2071.00,"Electrical Engineers",3.A.2,"On-Site or In-Plant Training",1,None,18.92
+17-2071.00,"Electrical Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",22.5
+17-2071.00,"Electrical Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",10.16
+17-2071.00,"Electrical Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.75
+17-2071.00,"Electrical Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.29
+17-2071.00,"Electrical Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5.51
+17-2071.00,"Electrical Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",8.57
+17-2071.00,"Electrical Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",11.3
+17-2072.00,"Electronics Engineers, Except Computer",3.A.2,"On-Site or In-Plant Training",1,None,9.29
+17-2072.00,"Electronics Engineers, Except Computer",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",13.71
+17-2072.00,"Electronics Engineers, Except Computer",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",18.64
+17-2072.00,"Electronics Engineers, Except Computer",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",17.89
+17-2072.00,"Electronics Engineers, Except Computer",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",19.56
+17-2072.00,"Electronics Engineers, Except Computer",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",6.9
+17-2072.00,"Electronics Engineers, Except Computer",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",6.9
+17-2072.00,"Electronics Engineers, Except Computer",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",7.09
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.2,"On-Site or In-Plant Training",1,None,9.16
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",11.52
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",8.37
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",20.09
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",13.33
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",29.26
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",6.43
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",1.83
+17-2081.00,"Environmental Engineers",3.A.2,"On-Site or In-Plant Training",1,None,18.18
+17-2081.00,"Environmental Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",36.36
+17-2081.00,"Environmental Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",4.55
+17-2081.00,"Environmental Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",18.18
+17-2081.00,"Environmental Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",9.09
+17-2081.00,"Environmental Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",4.55
+17-2081.00,"Environmental Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.55
+17-2081.00,"Environmental Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.55
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.2,"On-Site or In-Plant Training",1,None,30
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",15
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",10
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",5
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",15
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",20
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",5
+17-2112.00,"Industrial Engineers",3.A.2,"On-Site or In-Plant Training",1,None,10.69
+17-2112.00,"Industrial Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",20.36
+17-2112.00,"Industrial Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",25.94
+17-2112.00,"Industrial Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",16.03
+17-2112.00,"Industrial Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",4.3
+17-2112.00,"Industrial Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",12.53
+17-2112.00,"Industrial Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",5.52
+17-2112.00,"Industrial Engineers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",4.62
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.2,"On-Site or In-Plant Training",1,None,14.29
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.05
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.52
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",14.29
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",14.29
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",14.29
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",14.29
+17-2112.02,"Validation Engineers",3.A.2,"On-Site or In-Plant Training",1,None,5
+17-2112.02,"Validation Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",30
+17-2112.02,"Validation Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",20
+17-2112.02,"Validation Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",20
+17-2112.02,"Validation Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",20
+17-2112.02,"Validation Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",5
+17-2112.03,"Manufacturing Engineers",3.A.2,"On-Site or In-Plant Training",1,None,19.23
+17-2112.03,"Manufacturing Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.23
+17-2112.03,"Manufacturing Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",23.08
+17-2112.03,"Manufacturing Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",19.23
+17-2112.03,"Manufacturing Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",7.69
+17-2112.03,"Manufacturing Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",3.85
+17-2112.03,"Manufacturing Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",7.69
+17-2131.00,"Materials Engineers",3.A.2,"On-Site or In-Plant Training",1,None,14.29
+17-2131.00,"Materials Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",19.05
+17-2131.00,"Materials Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.52
+17-2131.00,"Materials Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",9.52
+17-2131.00,"Materials Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",19.05
+17-2131.00,"Materials Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",14.29
+17-2131.00,"Materials Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",9.52
+17-2131.00,"Materials Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",4.76
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",1,None,28.43
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",27.06
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",9.41
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",18.04
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",11.81
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",3.65
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",0.5
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",8,"Over 4 years, up to and including 10 years",0.48
+17-2141.00,"Mechanical Engineers",3.A.2,"On-Site or In-Plant Training",9,"Over 10 years",0.63
+17-2141.01,"Fuel Cell Engineers",3.A.2,"On-Site or In-Plant Training",1,None,30.43
+17-2141.01,"Fuel Cell Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",4.35
+17-2141.01,"Fuel Cell Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",26.09
+17-2141.01,"Fuel Cell Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",21.74
+17-2141.01,"Fuel Cell Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",17.39
+17-2141.02,"Automotive Engineers",3.A.2,"On-Site or In-Plant Training",1,None,8.7
+17-2141.02,"Automotive Engineers",3.A.2,"On-Site or In-Plant Training",2,"Up to and including 1 month",17.39
+17-2141.02,"Automotive Engineers",3.A.2,"On-Site or In-Plant Training",3,"Over 1 month, up to and including 3 months",13.04
+17-2141.02,"Automotive Engineers",3.A.2,"On-Site or In-Plant Training",4,"Over 3 months, up to and including 6 months",21.74
+17-2141.02,"Automotive Engineers",3.A.2,"On-Site or In-Plant Training",5,"Over 6 months, up to and including 1 year",26.09
+17-2141.02,"Automotive Engineers",3.A.2,"On-Site or In-Plant Training",6,"Over 1 year, up to and including 2 years",8.7
+17-2141.02,"Automotive Engineers",3.A.2,"On-Site or In-Plant Training",7,"Over 2 years, up to and including 4 years",4.35

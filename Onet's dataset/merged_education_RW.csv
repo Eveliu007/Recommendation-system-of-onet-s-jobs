@@ -1,0 +1,1001 @@
+SOC,Title,Element_ID,Element_Name,Category,Description,Data_Value
+11-1011.00,"Chief Executives",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",5.55
+11-1011.00,"Chief Executives",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",12.75
+11-1011.00,"Chief Executives",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",9.17
+11-1011.00,"Chief Executives",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",28.17
+11-1011.00,"Chief Executives",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",12.63
+11-1011.00,"Chief Executives",3.A.1,"Related Work Experience",11,"Over 10 years",31.74
+11-1011.03,"Chief Sustainability Officers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",3.7
+11-1011.03,"Chief Sustainability Officers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",11.11
+11-1011.03,"Chief Sustainability Officers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",40.74
+11-1011.03,"Chief Sustainability Officers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",18.52
+11-1011.03,"Chief Sustainability Officers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",11.11
+11-1011.03,"Chief Sustainability Officers",3.A.1,"Related Work Experience",11,"Over 10 years",14.81
+11-1021.00,"General and Operations Managers",3.A.1,"Related Work Experience",1,None,1.08
+11-1021.00,"General and Operations Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",5.09
+11-1021.00,"General and Operations Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",11.27
+11-1021.00,"General and Operations Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",22.06
+11-1021.00,"General and Operations Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",24.36
+11-1021.00,"General and Operations Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",8.65
+11-1021.00,"General and Operations Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",13.04
+11-1021.00,"General and Operations Managers",3.A.1,"Related Work Experience",11,"Over 10 years",14.44
+11-2011.00,"Advertising and Promotions Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",14.2
+11-2011.00,"Advertising and Promotions Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",13.73
+11-2011.00,"Advertising and Promotions Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",21.74
+11-2011.00,"Advertising and Promotions Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",26.52
+11-2011.00,"Advertising and Promotions Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",16.49
+11-2011.00,"Advertising and Promotions Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",2.42
+11-2011.00,"Advertising and Promotions Managers",3.A.1,"Related Work Experience",11,"Over 10 years",4.9
+11-2021.00,"Marketing Managers",3.A.1,"Related Work Experience",2,"Up to and including 1 month",1.43
+11-2021.00,"Marketing Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",9.04
+11-2021.00,"Marketing Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",7.23
+11-2021.00,"Marketing Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",12.08
+11-2021.00,"Marketing Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",18.8
+11-2021.00,"Marketing Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",14.98
+11-2021.00,"Marketing Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",33.99
+11-2021.00,"Marketing Managers",3.A.1,"Related Work Experience",11,"Over 10 years",2.47
+11-2022.00,"Sales Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.35
+11-2022.00,"Sales Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",13.04
+11-2022.00,"Sales Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",13.04
+11-2022.00,"Sales Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",26.09
+11-2022.00,"Sales Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",34.78
+11-2022.00,"Sales Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",8.7
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",1,None,3.21
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",2.52
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",1.67
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",26.78
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",31.24
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.73
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",6.92
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",5.02
+11-3012.00,"Administrative Services Managers",3.A.1,"Related Work Experience",11,"Over 10 years",0.89
+11-3021.00,"Computer and Information Systems Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",1.08
+11-3021.00,"Computer and Information Systems Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",11.15
+11-3021.00,"Computer and Information Systems Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",23.94
+11-3021.00,"Computer and Information Systems Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",40.02
+11-3021.00,"Computer and Information Systems Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",10.55
+11-3021.00,"Computer and Information Systems Managers",3.A.1,"Related Work Experience",11,"Over 10 years",13.25
+11-3031.01,"Treasurers and Controllers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4
+11-3031.01,"Treasurers and Controllers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",12
+11-3031.01,"Treasurers and Controllers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20
+11-3031.01,"Treasurers and Controllers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",24
+11-3031.01,"Treasurers and Controllers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",16
+11-3031.01,"Treasurers and Controllers",3.A.1,"Related Work Experience",11,"Over 10 years",24
+11-3031.03,"Investment Fund Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",1.51
+11-3031.03,"Investment Fund Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",1.51
+11-3031.03,"Investment Fund Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",24.86
+11-3031.03,"Investment Fund Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",16.35
+11-3031.03,"Investment Fund Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",28.36
+11-3031.03,"Investment Fund Managers",3.A.1,"Related Work Experience",11,"Over 10 years",27.4
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",1,None,7.5
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",2.48
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",3.06
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",28.44
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",12.95
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.21
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.97
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",1.22
+11-3051.00,"Industrial Production Managers",3.A.1,"Related Work Experience",11,"Over 10 years",13.16
+11-3051.01,"Quality Control Systems Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",1.12
+11-3051.01,"Quality Control Systems Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",26.46
+11-3051.01,"Quality Control Systems Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",48.42
+11-3051.01,"Quality Control Systems Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10.78
+11-3051.01,"Quality Control Systems Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",13.21
+11-3051.02,"Geothermal Production Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",11.46
+11-3051.02,"Geothermal Production Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",14.67
+11-3051.02,"Geothermal Production Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",19.57
+11-3051.02,"Geothermal Production Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",12.48
+11-3051.02,"Geothermal Production Managers",3.A.1,"Related Work Experience",11,"Over 10 years",41.82
+11-3051.03,"Biofuels Production Managers",3.A.1,"Related Work Experience",1,None,12.69
+11-3051.03,"Biofuels Production Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.46
+11-3051.03,"Biofuels Production Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",17.76
+11-3051.03,"Biofuels Production Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",34.62
+11-3051.03,"Biofuels Production Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",27.59
+11-3051.03,"Biofuels Production Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",2.87
+11-3051.04,"Biomass Power Plant Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.56
+11-3051.04,"Biomass Power Plant Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",5.24
+11-3051.04,"Biomass Power Plant Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",18.23
+11-3051.04,"Biomass Power Plant Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",12.43
+11-3051.04,"Biomass Power Plant Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",13.65
+11-3051.04,"Biomass Power Plant Managers",3.A.1,"Related Work Experience",11,"Over 10 years",40.89
+11-3051.06,"Hydroelectric Production Managers",3.A.1,"Related Work Experience",1,None,3.03
+11-3051.06,"Hydroelectric Production Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",2.97
+11-3051.06,"Hydroelectric Production Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",10.24
+11-3051.06,"Hydroelectric Production Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",7.99
+11-3051.06,"Hydroelectric Production Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",29.66
+11-3051.06,"Hydroelectric Production Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",23.2
+11-3051.06,"Hydroelectric Production Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",8.28
+11-3051.06,"Hydroelectric Production Managers",3.A.1,"Related Work Experience",11,"Over 10 years",14.63
+11-3061.00,"Purchasing Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.76
+11-3061.00,"Purchasing Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",23.81
+11-3061.00,"Purchasing Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",42.86
+11-3061.00,"Purchasing Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",19.05
+11-3061.00,"Purchasing Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",9.52
+11-3071.04,"Supply Chain Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.76
+11-3071.04,"Supply Chain Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.52
+11-3071.04,"Supply Chain Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",14.29
+11-3071.04,"Supply Chain Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",9.52
+11-3071.04,"Supply Chain Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",14.29
+11-3071.04,"Supply Chain Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",14.29
+11-3071.04,"Supply Chain Managers",3.A.1,"Related Work Experience",11,"Over 10 years",33.33
+11-3111.00,"Compensation and Benefits Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",57.14
+11-3111.00,"Compensation and Benefits Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",23.81
+11-3111.00,"Compensation and Benefits Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",14.29
+11-3111.00,"Compensation and Benefits Managers",3.A.1,"Related Work Experience",11,"Over 10 years",4.76
+11-3121.00,"Human Resources Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.17
+11-3121.00,"Human Resources Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",12.5
+11-3121.00,"Human Resources Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",54.17
+11-3121.00,"Human Resources Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",12.5
+11-3121.00,"Human Resources Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",16.67
+11-3131.00,"Training and Development Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",3.7
+11-3131.00,"Training and Development Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",29.63
+11-3131.00,"Training and Development Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",25.93
+11-3131.00,"Training and Development Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",25.93
+11-3131.00,"Training and Development Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",11.11
+11-3131.00,"Training and Development Managers",3.A.1,"Related Work Experience",11,"Over 10 years",3.7
+11-9021.00,"Construction Managers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",5
+11-9021.00,"Construction Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",15
+11-9021.00,"Construction Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",15
+11-9021.00,"Construction Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20
+11-9021.00,"Construction Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",35
+11-9021.00,"Construction Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",10
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",6.14
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",27.37
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",17.4
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",36.38
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",12.59
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",3.A.1,"Related Work Experience",11,"Over 10 years",0.11
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",6.46
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",0.14
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",11.72
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",38.37
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",33.82
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.62
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.74
+11-9032.00,"Education Administrators, Kindergarten through Secondary",3.A.1,"Related Work Experience",11,"Over 10 years",0.14
+11-9033.00,"Education Administrators, Postsecondary",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",0.39
+11-9033.00,"Education Administrators, Postsecondary",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",5.6
+11-9033.00,"Education Administrators, Postsecondary",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",8.55
+11-9033.00,"Education Administrators, Postsecondary",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",33.56
+11-9033.00,"Education Administrators, Postsecondary",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",18.42
+11-9033.00,"Education Administrators, Postsecondary",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",7.96
+11-9033.00,"Education Administrators, Postsecondary",3.A.1,"Related Work Experience",11,"Over 10 years",25.52
+11-9041.00,"Architectural and Engineering Managers",3.A.1,"Related Work Experience",1,None,5.05
+11-9041.00,"Architectural and Engineering Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",5.23
+11-9041.00,"Architectural and Engineering Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",1.15
+11-9041.00,"Architectural and Engineering Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",6.2
+11-9041.00,"Architectural and Engineering Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",31.23
+11-9041.00,"Architectural and Engineering Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",15.05
+11-9041.00,"Architectural and Engineering Managers",3.A.1,"Related Work Experience",11,"Over 10 years",36.1
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",1,None,1.33
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",2,"Up to and including 1 month",1.57
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",7.16
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.77
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",54.02
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",5.29
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",2
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.5
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",3.A.1,"Related Work Experience",11,"Over 10 years",19.35
+11-9051.00,"Food Service Managers",3.A.1,"Related Work Experience",1,None,18.35
+11-9051.00,"Food Service Managers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",3.48
+11-9051.00,"Food Service Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",12.51
+11-9051.00,"Food Service Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",1.82
+11-9051.00,"Food Service Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",29.38
+11-9051.00,"Food Service Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",29.52
+11-9051.00,"Food Service Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",4.93
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",1,None,6.32
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",1.65
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",3.71
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",12.82
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",26.33
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",26.62
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",14.69
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",2.14
+11-9071.00,"Gambling Managers",3.A.1,"Related Work Experience",11,"Over 10 years",5.71
+11-9081.00,"Lodging Managers",3.A.1,"Related Work Experience",1,None,18.32
+11-9081.00,"Lodging Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",0.57
+11-9081.00,"Lodging Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",19.08
+11-9081.00,"Lodging Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",43.13
+11-9081.00,"Lodging Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",18.89
+11-9111.00,"Medical and Health Services Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",3.85
+11-9111.00,"Medical and Health Services Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",23.08
+11-9111.00,"Medical and Health Services Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",34.62
+11-9111.00,"Medical and Health Services Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",34.62
+11-9111.00,"Medical and Health Services Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",3.85
+11-9121.00,"Natural Sciences Managers",3.A.1,"Related Work Experience",1,None,3.32
+11-9121.00,"Natural Sciences Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",15.93
+11-9121.00,"Natural Sciences Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25.71
+11-9121.00,"Natural Sciences Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",19.31
+11-9121.00,"Natural Sciences Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",7.27
+11-9121.00,"Natural Sciences Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",13.7
+11-9121.00,"Natural Sciences Managers",3.A.1,"Related Work Experience",11,"Over 10 years",14.76
+11-9121.01,"Clinical Research Coordinators",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",14.07
+11-9121.01,"Clinical Research Coordinators",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",11.62
+11-9121.01,"Clinical Research Coordinators",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",33.58
+11-9121.01,"Clinical Research Coordinators",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25.63
+11-9121.01,"Clinical Research Coordinators",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",13.83
+11-9121.01,"Clinical Research Coordinators",3.A.1,"Related Work Experience",11,"Over 10 years",1.27
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",1,None,18.18
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",4.55
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.55
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",9.09
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",13.64
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",18.18
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",13.64
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.55
+11-9121.02,"Water Resource Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",13.64
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",1,None,27.12
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",6.69
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",10.82
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",12.22
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",7.1
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",18.87
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",3.81
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",10.43
+11-9131.00,"Postmasters and Mail Superintendents",3.A.1,"Related Work Experience",11,"Over 10 years",2.94
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",10
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",25
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",20
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",35
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5
+11-9141.00,"Property, Real Estate, and Community Association Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",5
+11-9151.00,"Social and Community Service Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",12.31
+11-9151.00,"Social and Community Service Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",17.39
+11-9151.00,"Social and Community Service Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",18.42
+11-9151.00,"Social and Community Service Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",26.13
+11-9151.00,"Social and Community Service Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",18.02
+11-9151.00,"Social and Community Service Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",5.91
+11-9151.00,"Social and Community Service Managers",3.A.1,"Related Work Experience",11,"Over 10 years",1.82
+11-9161.00,"Emergency Management Directors",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",20
+11-9161.00,"Emergency Management Directors",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",20
+11-9161.00,"Emergency Management Directors",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",32
+11-9161.00,"Emergency Management Directors",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",12
+11-9161.00,"Emergency Management Directors",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",12
+11-9161.00,"Emergency Management Directors",3.A.1,"Related Work Experience",11,"Over 10 years",4
+11-9171.00,"Funeral Home Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",8.28
+11-9171.00,"Funeral Home Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",54.6
+11-9171.00,"Funeral Home Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",24.63
+11-9171.00,"Funeral Home Managers",3.A.1,"Related Work Experience",11,"Over 10 years",12.49
+11-9179.01,"Fitness and Wellness Coordinators",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.17
+11-9179.01,"Fitness and Wellness Coordinators",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",25
+11-9179.01,"Fitness and Wellness Coordinators",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",33.33
+11-9179.01,"Fitness and Wellness Coordinators",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",29.17
+11-9179.01,"Fitness and Wellness Coordinators",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.17
+11-9179.01,"Fitness and Wellness Coordinators",3.A.1,"Related Work Experience",11,"Over 10 years",4.17
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",1,None,0.05
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",13.04
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",0.72
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",2.93
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",5.98
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",41.46
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",30.13
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",0.47
+11-9179.02,"Spa Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",5.21
+11-9199.01,"Regulatory Affairs Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",3.57
+11-9199.01,"Regulatory Affairs Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",32.14
+11-9199.01,"Regulatory Affairs Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",32.14
+11-9199.01,"Regulatory Affairs Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10.71
+11-9199.01,"Regulatory Affairs Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",14.29
+11-9199.01,"Regulatory Affairs Managers",3.A.1,"Related Work Experience",11,"Over 10 years",7.14
+11-9199.02,"Compliance Managers",3.A.1,"Related Work Experience",1,None,13.44
+11-9199.02,"Compliance Managers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",1.27
+11-9199.02,"Compliance Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.81
+11-9199.02,"Compliance Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",42.56
+11-9199.02,"Compliance Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",18.38
+11-9199.02,"Compliance Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.58
+11-9199.02,"Compliance Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",5.02
+11-9199.02,"Compliance Managers",3.A.1,"Related Work Experience",11,"Over 10 years",4.94
+11-9199.08,"Loss Prevention Managers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",4.55
+11-9199.08,"Loss Prevention Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.55
+11-9199.08,"Loss Prevention Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",27.27
+11-9199.08,"Loss Prevention Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",22.73
+11-9199.08,"Loss Prevention Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",31.82
+11-9199.08,"Loss Prevention Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.55
+11-9199.08,"Loss Prevention Managers",3.A.1,"Related Work Experience",11,"Over 10 years",4.55
+11-9199.09,"Wind Energy Operations Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",25.03
+11-9199.09,"Wind Energy Operations Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",9.7
+11-9199.09,"Wind Energy Operations Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",38.8
+11-9199.09,"Wind Energy Operations Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.64
+11-9199.09,"Wind Energy Operations Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",2.67
+11-9199.09,"Wind Energy Operations Managers",3.A.1,"Related Work Experience",11,"Over 10 years",19.15
+11-9199.10,"Wind Energy Development Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",24.41
+11-9199.10,"Wind Energy Development Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",14.96
+11-9199.10,"Wind Energy Development Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",33.56
+11-9199.10,"Wind Energy Development Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",20.15
+11-9199.10,"Wind Energy Development Managers",3.A.1,"Related Work Experience",11,"Over 10 years",6.92
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.1,"Related Work Experience",1,None,4.55
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.55
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.09
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",31.82
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",18.18
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.55
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",13.64
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",3.A.1,"Related Work Experience",11,"Over 10 years",13.64
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",10.3
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",17.63
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",36.61
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",11.52
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",14.25
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.69
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",1,None,11.27
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",10.11
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",7.6
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",13.89
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",13.91
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",7.97
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",1.48
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",15.67
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",3.A.1,"Related Work Experience",11,"Over 10 years",18.09
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.1,"Related Work Experience",1,None,15.45
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",22.47
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",48.58
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",12.79
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",0.7
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.1,"Related Work Experience",1,None,9.09
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.55
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",27.27
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",45.45
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.09
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3.A.1,"Related Work Experience",11,"Over 10 years",4.55
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.1,"Related Work Experience",1,None,15.94
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.1,"Related Work Experience",2,"Up to and including 1 month",0.74
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",0.74
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",15.39
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",36.05
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",30.41
+13-1032.00,"Insurance Appraisers, Auto Damage",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",0.74
+13-1041.01,"Environmental Compliance Inspectors",3.A.1,"Related Work Experience",1,None,25
+13-1041.01,"Environmental Compliance Inspectors",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",15
+13-1041.01,"Environmental Compliance Inspectors",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",25
+13-1041.01,"Environmental Compliance Inspectors",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",10
+13-1041.01,"Environmental Compliance Inspectors",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20
+13-1041.01,"Environmental Compliance Inspectors",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.1,"Related Work Experience",1,None,6.78
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",7.92
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",8.44
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",43.94
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20.26
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",3.59
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",7.06
+13-1041.03,"Equal Opportunity Representatives and Officers",3.A.1,"Related Work Experience",11,"Over 10 years",2.01
+13-1041.04,"Government Property Inspectors and Investigators",3.A.1,"Related Work Experience",1,None,11.13
+13-1041.04,"Government Property Inspectors and Investigators",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",38.5
+13-1041.04,"Government Property Inspectors and Investigators",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",0.94
+13-1041.04,"Government Property Inspectors and Investigators",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",16.08
+13-1041.04,"Government Property Inspectors and Investigators",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.67
+13-1041.04,"Government Property Inspectors and Investigators",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10.32
+13-1041.04,"Government Property Inspectors and Investigators",3.A.1,"Related Work Experience",11,"Over 10 years",1.38
+13-1041.06,Coroners,3.A.1,"Related Work Experience",1,None,20
+13-1041.06,Coroners,3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",5
+13-1041.06,Coroners,3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",15
+13-1041.06,Coroners,3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",40
+13-1041.06,Coroners,3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",15
+13-1041.06,Coroners,3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",5
+13-1041.07,"Regulatory Affairs Specialists",3.A.1,"Related Work Experience",1,None,5
+13-1041.07,"Regulatory Affairs Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",5
+13-1041.07,"Regulatory Affairs Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",25
+13-1041.07,"Regulatory Affairs Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",55
+13-1041.07,"Regulatory Affairs Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10
+13-1041.08,"Customs Brokers",3.A.1,"Related Work Experience",1,None,20
+13-1041.08,"Customs Brokers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",5
+13-1041.08,"Customs Brokers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",30
+13-1041.08,"Customs Brokers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",35
+13-1041.08,"Customs Brokers",3.A.1,"Related Work Experience",11,"Over 10 years",10
+13-1051.00,"Cost Estimators",3.A.1,"Related Work Experience",1,None,18.18
+13-1051.00,"Cost Estimators",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",9.09
+13-1051.00,"Cost Estimators",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",22.73
+13-1051.00,"Cost Estimators",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",9.09
+13-1051.00,"Cost Estimators",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",13.64
+13-1051.00,"Cost Estimators",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.55
+13-1051.00,"Cost Estimators",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.55
+13-1051.00,"Cost Estimators",3.A.1,"Related Work Experience",11,"Over 10 years",18.18
+13-1071.00,"Human Resources Specialists",3.A.1,"Related Work Experience",1,None,1.62
+13-1071.00,"Human Resources Specialists",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",2.68
+13-1071.00,"Human Resources Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",1.96
+13-1071.00,"Human Resources Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",30.02
+13-1071.00,"Human Resources Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",7.77
+13-1071.00,"Human Resources Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",50.88
+13-1071.00,"Human Resources Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.6
+13-1071.00,"Human Resources Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",0.49
+13-1074.00,"Farm Labor Contractors",3.A.1,"Related Work Experience",1,None,18.06
+13-1074.00,"Farm Labor Contractors",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",1.38
+13-1074.00,"Farm Labor Contractors",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",3.83
+13-1074.00,"Farm Labor Contractors",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",24.37
+13-1074.00,"Farm Labor Contractors",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",33.54
+13-1074.00,"Farm Labor Contractors",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",18.68
+13-1074.00,"Farm Labor Contractors",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",0.14
+13-1075.00,"Labor Relations Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",5
+13-1075.00,"Labor Relations Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",10
+13-1075.00,"Labor Relations Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",35
+13-1075.00,"Labor Relations Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",15
+13-1075.00,"Labor Relations Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5
+13-1075.00,"Labor Relations Specialists",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",10
+13-1075.00,"Labor Relations Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",20
+13-1081.00,Logisticians,3.A.1,"Related Work Experience",1,None,8.33
+13-1081.00,Logisticians,3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",20.83
+13-1081.00,Logisticians,3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25
+13-1081.00,Logisticians,3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",33.33
+13-1081.00,Logisticians,3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",8.33
+13-1081.00,Logisticians,3.A.1,"Related Work Experience",11,"Over 10 years",4.17
+13-1081.01,"Logistics Engineers",3.A.1,"Related Work Experience",2,"Up to and including 1 month",5
+13-1081.01,"Logistics Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",5
+13-1081.01,"Logistics Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",20
+13-1081.01,"Logistics Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",20
+13-1081.01,"Logistics Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20
+13-1081.01,"Logistics Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10
+13-1081.01,"Logistics Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",15
+13-1081.01,"Logistics Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",5
+13-1081.02,"Logistics Analysts",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.76
+13-1081.02,"Logistics Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.52
+13-1081.02,"Logistics Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",28.57
+13-1081.02,"Logistics Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",38.1
+13-1081.02,"Logistics Analysts",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.52
+13-1081.02,"Logistics Analysts",3.A.1,"Related Work Experience",11,"Over 10 years",9.52
+13-1111.00,"Management Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",11.54
+13-1111.00,"Management Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",23.08
+13-1111.00,"Management Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",42.31
+13-1111.00,"Management Analysts",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",7.69
+13-1111.00,"Management Analysts",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",3.85
+13-1111.00,"Management Analysts",3.A.1,"Related Work Experience",11,"Over 10 years",11.54
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.1,"Related Work Experience",1,None,1.22
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.57
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",51.71
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",13.86
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",16.49
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5.43
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.57
+13-1121.00,"Meeting, Convention, and Event Planners",3.A.1,"Related Work Experience",11,"Over 10 years",2.15
+13-1131.00,Fundraisers,3.A.1,"Related Work Experience",2,"Up to and including 1 month",4.76
+13-1131.00,Fundraisers,3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.52
+13-1131.00,Fundraisers,3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",42.86
+13-1131.00,Fundraisers,3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",23.81
+13-1131.00,Fundraisers,3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.52
+13-1131.00,Fundraisers,3.A.1,"Related Work Experience",11,"Over 10 years",9.52
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.17
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",33.33
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",37.5
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",20.83
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",4.17
+13-1151.00,"Training and Development Specialists",3.A.1,"Related Work Experience",1,None,2.86
+13-1151.00,"Training and Development Specialists",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",2.86
+13-1151.00,"Training and Development Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",2.86
+13-1151.00,"Training and Development Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",5.71
+13-1151.00,"Training and Development Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",37.14
+13-1151.00,"Training and Development Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",37.14
+13-1151.00,"Training and Development Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5.71
+13-1151.00,"Training and Development Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",5.71
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.1,"Related Work Experience",1,None,8.7
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.35
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",8.7
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",17.39
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",26.09
+13-1161.00,"Market Research Analysts and Marketing Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",34.78
+13-1161.01,"Search Marketing Strategists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",17.39
+13-1161.01,"Search Marketing Strategists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",39.13
+13-1161.01,"Search Marketing Strategists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",21.74
+13-1161.01,"Search Marketing Strategists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.74
+13-1199.04,"Business Continuity Planners",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",18.18
+13-1199.04,"Business Continuity Planners",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",22.73
+13-1199.04,"Business Continuity Planners",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",36.36
+13-1199.04,"Business Continuity Planners",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",18.18
+13-1199.04,"Business Continuity Planners",3.A.1,"Related Work Experience",11,"Over 10 years",4.55
+13-1199.05,"Sustainability Specialists",3.A.1,"Related Work Experience",1,None,4.35
+13-1199.05,"Sustainability Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.35
+13-1199.05,"Sustainability Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.35
+13-1199.05,"Sustainability Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",52.17
+13-1199.05,"Sustainability Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",17.39
+13-1199.05,"Sustainability Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.35
+13-1199.05,"Sustainability Specialists",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.35
+13-1199.05,"Sustainability Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",8.7
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",1,None,16.67
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",2,"Up to and including 1 month",2.68
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",7
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",11.45
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",16.85
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",26.1
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",8.24
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5.51
+13-1199.06,"Online Merchants",3.A.1,"Related Work Experience",11,"Over 10 years",5.49
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",1,None,2.2
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",2.34
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",8.12
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",19.76
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",42.37
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",12.63
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",3.32
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",7.47
+13-2031.00,"Budget Analysts",3.A.1,"Related Work Experience",11,"Over 10 years",1.79
+13-2041.00,"Credit Analysts",3.A.1,"Related Work Experience",1,None,25
+13-2041.00,"Credit Analysts",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",5
+13-2041.00,"Credit Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",30
+13-2041.00,"Credit Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25
+13-2041.00,"Credit Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",15
+13-2052.00,"Personal Financial Advisors",3.A.1,"Related Work Experience",1,None,17.39
+13-2052.00,"Personal Financial Advisors",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",8.7
+13-2052.00,"Personal Financial Advisors",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",13.04
+13-2052.00,"Personal Financial Advisors",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",39.13
+13-2052.00,"Personal Financial Advisors",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.74
+13-2053.00,"Insurance Underwriters",3.A.1,"Related Work Experience",1,None,40
+13-2053.00,"Insurance Underwriters",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",20
+13-2053.00,"Insurance Underwriters",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",26.67
+13-2053.00,"Insurance Underwriters",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10
+13-2053.00,"Insurance Underwriters",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",3.33
+13-2061.00,"Financial Examiners",3.A.1,"Related Work Experience",1,None,39.13
+13-2061.00,"Financial Examiners",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",8.7
+13-2061.00,"Financial Examiners",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",8.7
+13-2061.00,"Financial Examiners",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",26.09
+13-2061.00,"Financial Examiners",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",13.04
+13-2061.00,"Financial Examiners",3.A.1,"Related Work Experience",11,"Over 10 years",4.35
+13-2071.00,"Credit Counselors",3.A.1,"Related Work Experience",1,None,8
+13-2071.00,"Credit Counselors",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4
+13-2071.00,"Credit Counselors",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",16
+13-2071.00,"Credit Counselors",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",44
+13-2071.00,"Credit Counselors",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",24
+13-2071.00,"Credit Counselors",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4
+13-2072.00,"Loan Officers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",10.06
+13-2072.00,"Loan Officers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",3.89
+13-2072.00,"Loan Officers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",6.13
+13-2072.00,"Loan Officers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",30.91
+13-2072.00,"Loan Officers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",40.47
+13-2072.00,"Loan Officers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",2.24
+13-2072.00,"Loan Officers",3.A.1,"Related Work Experience",11,"Over 10 years",6.29
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",1,None,24.85
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",3.01
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",2.5
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",23.06
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",32.81
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",2.9
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",1.79
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",2.78
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",3.A.1,"Related Work Experience",11,"Over 10 years",6.3
+13-2082.00,"Tax Preparers",3.A.1,"Related Work Experience",1,None,27.27
+13-2082.00,"Tax Preparers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.55
+13-2082.00,"Tax Preparers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",13.64
+13-2082.00,"Tax Preparers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",22.73
+13-2082.00,"Tax Preparers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",18.18
+13-2082.00,"Tax Preparers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",9.09
+13-2082.00,"Tax Preparers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.55
+13-2099.01,"Financial Quantitative Analysts",3.A.1,"Related Work Experience",1,None,18.18
+13-2099.01,"Financial Quantitative Analysts",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",9.09
+13-2099.01,"Financial Quantitative Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",18.18
+13-2099.01,"Financial Quantitative Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",22.73
+13-2099.01,"Financial Quantitative Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",27.27
+13-2099.01,"Financial Quantitative Analysts",3.A.1,"Related Work Experience",11,"Over 10 years",4.55
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.1,"Related Work Experience",1,None,4
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",12
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",48
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",12
+13-2099.04,"Fraud Examiners, Investigators and Analysts",3.A.1,"Related Work Experience",11,"Over 10 years",4
+15-1211.00,"Computer Systems Analysts",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",3.48
+15-1211.00,"Computer Systems Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",27.6
+15-1211.00,"Computer Systems Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",14.97
+15-1211.00,"Computer Systems Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.95
+15-1211.00,"Computer Systems Analysts",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",7.49
+15-1211.00,"Computer Systems Analysts",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",10.35
+15-1211.00,"Computer Systems Analysts",3.A.1,"Related Work Experience",11,"Over 10 years",14.15
+15-1211.01,"Health Informatics Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.55
+15-1211.01,"Health Informatics Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",40.91
+15-1211.01,"Health Informatics Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",50
+15-1211.01,"Health Informatics Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.55
+15-1212.00,"Information Security Analysts",3.A.1,"Related Work Experience",1,None,1.13
+15-1212.00,"Information Security Analysts",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",9.83
+15-1212.00,"Information Security Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",2.24
+15-1212.00,"Information Security Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",24.07
+15-1212.00,"Information Security Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.46
+15-1212.00,"Information Security Analysts",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10.49
+15-1212.00,"Information Security Analysts",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",17.7
+15-1212.00,"Information Security Analysts",3.A.1,"Related Work Experience",11,"Over 10 years",13.07
+15-1221.00,"Computer and Information Research Scientists",3.A.1,"Related Work Experience",1,None,13.9
+15-1221.00,"Computer and Information Research Scientists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",2.83
+15-1221.00,"Computer and Information Research Scientists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",43.76
+15-1221.00,"Computer and Information Research Scientists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.07
+15-1221.00,"Computer and Information Research Scientists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.54
+15-1221.00,"Computer and Information Research Scientists",3.A.1,"Related Work Experience",11,"Over 10 years",13.9
+15-1231.00,"Computer Network Support Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",13.11
+15-1231.00,"Computer Network Support Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",22.98
+15-1231.00,"Computer Network Support Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",13.12
+15-1231.00,"Computer Network Support Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",30.7
+15-1231.00,"Computer Network Support Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",15.87
+15-1231.00,"Computer Network Support Specialists",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",3.95
+15-1231.00,"Computer Network Support Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",0.26
+15-1232.00,"Computer User Support Specialists",3.A.1,"Related Work Experience",1,None,3.16
+15-1232.00,"Computer User Support Specialists",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",9.05
+15-1232.00,"Computer User Support Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",16.01
+15-1232.00,"Computer User Support Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",23.18
+15-1232.00,"Computer User Support Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",36.54
+15-1232.00,"Computer User Support Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10.68
+15-1232.00,"Computer User Support Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",0.75
+15-1232.00,"Computer User Support Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",0.63
+15-1241.00,"Computer Network Architects",3.A.1,"Related Work Experience",1,None,4.55
+15-1241.00,"Computer Network Architects",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.55
+15-1241.00,"Computer Network Architects",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",45.45
+15-1241.00,"Computer Network Architects",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",27.27
+15-1241.00,"Computer Network Architects",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.09
+15-1241.00,"Computer Network Architects",3.A.1,"Related Work Experience",11,"Over 10 years",9.09
+15-1241.01,"Telecommunications Engineering Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",14.29
+15-1241.01,"Telecommunications Engineering Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",23.81
+15-1241.01,"Telecommunications Engineering Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",14.29
+15-1241.01,"Telecommunications Engineering Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",19.05
+15-1241.01,"Telecommunications Engineering Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.52
+15-1241.01,"Telecommunications Engineering Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",19.05
+15-1242.00,"Database Administrators",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",0.18
+15-1242.00,"Database Administrators",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",7.87
+15-1242.00,"Database Administrators",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",15.55
+15-1242.00,"Database Administrators",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",31.46
+15-1242.00,"Database Administrators",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",22
+15-1242.00,"Database Administrators",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",7.35
+15-1242.00,"Database Administrators",3.A.1,"Related Work Experience",11,"Over 10 years",15.58
+15-1243.00,"Database Architects",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",4.17
+15-1243.00,"Database Architects",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",12.5
+15-1243.00,"Database Architects",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",12.5
+15-1243.00,"Database Architects",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20.83
+15-1243.00,"Database Architects",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",37.5
+15-1243.00,"Database Architects",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.17
+15-1243.00,"Database Architects",3.A.1,"Related Work Experience",11,"Over 10 years",8.33
+15-1243.01,"Data Warehousing Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.35
+15-1243.01,"Data Warehousing Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",43.48
+15-1243.01,"Data Warehousing Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",26.09
+15-1243.01,"Data Warehousing Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",17.39
+15-1243.01,"Data Warehousing Specialists",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.35
+15-1243.01,"Data Warehousing Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",4.35
+15-1244.00,"Network and Computer Systems Administrators",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.14
+15-1244.00,"Network and Computer Systems Administrators",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",17.21
+15-1244.00,"Network and Computer Systems Administrators",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",25.68
+15-1244.00,"Network and Computer Systems Administrators",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",35.27
+15-1244.00,"Network and Computer Systems Administrators",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",12.7
+15-1251.00,"Computer Programmers",3.A.1,"Related Work Experience",1,None,2.97
+15-1251.00,"Computer Programmers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",37.21
+15-1251.00,"Computer Programmers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",3.46
+15-1251.00,"Computer Programmers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",7.38
+15-1251.00,"Computer Programmers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",12.91
+15-1251.00,"Computer Programmers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",27.64
+15-1251.00,"Computer Programmers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",7.98
+15-1251.00,"Computer Programmers",3.A.1,"Related Work Experience",11,"Over 10 years",0.45
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.1,"Related Work Experience",1,None,11.11
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",22.22
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",18.52
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",18.52
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",22.22
+15-1253.00,"Software Quality Assurance Analysts and Testers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",7.41
+15-1254.00,"Web Developers",3.A.1,"Related Work Experience",1,None,12.5
+15-1254.00,"Web Developers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",20.83
+15-1254.00,"Web Developers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",29.17
+15-1254.00,"Web Developers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25
+15-1254.00,"Web Developers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",12.5
+15-1255.01,"Video Game Designers",3.A.1,"Related Work Experience",1,None,9.52
+15-1255.01,"Video Game Designers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",14.29
+15-1255.01,"Video Game Designers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",14.29
+15-1255.01,"Video Game Designers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",42.86
+15-1255.01,"Video Game Designers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",9.52
+15-1255.01,"Video Game Designers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.52
+15-1299.01,"Web Administrators",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",15
+15-1299.01,"Web Administrators",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",30
+15-1299.01,"Web Administrators",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",40
+15-1299.01,"Web Administrators",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",15
+15-1299.03,"Document Management Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",10
+15-1299.03,"Document Management Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",15
+15-1299.03,"Document Management Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",30
+15-1299.03,"Document Management Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",35
+15-1299.03,"Document Management Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5
+15-1299.03,"Document Management Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",5
+15-1299.08,"Computer Systems Engineers/Architects",3.A.1,"Related Work Experience",1,None,3.33
+15-1299.08,"Computer Systems Engineers/Architects",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",10
+15-1299.08,"Computer Systems Engineers/Architects",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",16.67
+15-1299.08,"Computer Systems Engineers/Architects",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10
+15-1299.08,"Computer Systems Engineers/Architects",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",26.67
+15-1299.08,"Computer Systems Engineers/Architects",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",16.67
+15-1299.08,"Computer Systems Engineers/Architects",3.A.1,"Related Work Experience",11,"Over 10 years",16.67
+15-1299.09,"Information Technology Project Managers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.76
+15-1299.09,"Information Technology Project Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",14.29
+15-1299.09,"Information Technology Project Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",38.1
+15-1299.09,"Information Technology Project Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",28.57
+15-1299.09,"Information Technology Project Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.76
+15-1299.09,"Information Technology Project Managers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",9.52
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",1,None,34.38
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",2,"Up to and including 1 month",3.12
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",3.12
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",3.12
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",6.25
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",6.25
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",18.75
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",12.5
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",3.12
+15-2011.00,Actuaries,3.A.1,"Related Work Experience",11,"Over 10 years",9.38
+15-2021.00,Mathematicians,3.A.1,"Related Work Experience",1,None,33.33
+15-2021.00,Mathematicians,3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",8.33
+15-2021.00,Mathematicians,3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",29.17
+15-2021.00,Mathematicians,3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",8.33
+15-2021.00,Mathematicians,3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",8.33
+15-2021.00,Mathematicians,3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.17
+15-2021.00,Mathematicians,3.A.1,"Related Work Experience",11,"Over 10 years",8.33
+15-2031.00,"Operations Research Analysts",3.A.1,"Related Work Experience",1,None,45
+15-2031.00,"Operations Research Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",25
+15-2031.00,"Operations Research Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",20
+15-2031.00,"Operations Research Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10
+15-2041.00,Statisticians,3.A.1,"Related Work Experience",1,None,25
+15-2041.00,Statisticians,3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",5
+15-2041.00,Statisticians,3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",5
+15-2041.00,Statisticians,3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",25
+15-2041.00,Statisticians,3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",20
+15-2041.00,Statisticians,3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10
+15-2041.00,Statisticians,3.A.1,"Related Work Experience",11,"Over 10 years",10
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",1,None,16.67
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",8.33
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.17
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.17
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",20.83
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",16.67
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",12.5
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",12.5
+15-2041.01,Biostatisticians,3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.17
+15-2051.01,"Business Intelligence Analysts",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",14.29
+15-2051.01,"Business Intelligence Analysts",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",14.29
+15-2051.01,"Business Intelligence Analysts",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",23.81
+15-2051.01,"Business Intelligence Analysts",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",33.33
+15-2051.01,"Business Intelligence Analysts",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.52
+15-2051.01,"Business Intelligence Analysts",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.76
+15-2051.02,"Clinical Data Managers",3.A.1,"Related Work Experience",1,None,5
+15-2051.02,"Clinical Data Managers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",30
+15-2051.02,"Clinical Data Managers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",35
+15-2051.02,"Clinical Data Managers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20
+15-2051.02,"Clinical Data Managers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5
+15-2051.02,"Clinical Data Managers",3.A.1,"Related Work Experience",11,"Over 10 years",5
+15-2099.01,"Bioinformatics Technicians",3.A.1,"Related Work Experience",1,None,2.86
+15-2099.01,"Bioinformatics Technicians",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",23.7
+15-2099.01,"Bioinformatics Technicians",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",23.38
+15-2099.01,"Bioinformatics Technicians",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",9.22
+15-2099.01,"Bioinformatics Technicians",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",35.2
+15-2099.01,"Bioinformatics Technicians",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",3.27
+15-2099.01,"Bioinformatics Technicians",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",1.19
+15-2099.01,"Bioinformatics Technicians",3.A.1,"Related Work Experience",11,"Over 10 years",1.19
+17-1011.00,"Architects, Except Landscape and Naval",3.A.1,"Related Work Experience",1,None,19.05
+17-1011.00,"Architects, Except Landscape and Naval",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",9.52
+17-1011.00,"Architects, Except Landscape and Naval",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.76
+17-1011.00,"Architects, Except Landscape and Naval",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",33.33
+17-1011.00,"Architects, Except Landscape and Naval",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",9.52
+17-1011.00,"Architects, Except Landscape and Naval",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",14.29
+17-1011.00,"Architects, Except Landscape and Naval",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",9.52
+17-1012.00,"Landscape Architects",3.A.1,"Related Work Experience",1,None,7.14
+17-1012.00,"Landscape Architects",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",3.57
+17-1012.00,"Landscape Architects",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",7.14
+17-1012.00,"Landscape Architects",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",7.14
+17-1012.00,"Landscape Architects",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",17.86
+17-1012.00,"Landscape Architects",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",42.86
+17-1012.00,"Landscape Architects",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10.71
+17-1012.00,"Landscape Architects",3.A.1,"Related Work Experience",11,"Over 10 years",3.57
+17-1021.00,"Cartographers and Photogrammetrists",3.A.1,"Related Work Experience",1,None,35.73
+17-1021.00,"Cartographers and Photogrammetrists",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",21.26
+17-1021.00,"Cartographers and Photogrammetrists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",12.86
+17-1021.00,"Cartographers and Photogrammetrists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25.26
+17-1021.00,"Cartographers and Photogrammetrists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",0.97
+17-1021.00,"Cartographers and Photogrammetrists",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",1.96
+17-1021.00,"Cartographers and Photogrammetrists",3.A.1,"Related Work Experience",11,"Over 10 years",1.96
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",1,None,16.67
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",2,"Up to and including 1 month",3.33
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",3.33
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",10
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",16.67
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",23.33
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",13.33
+17-1022.00,Surveyors,3.A.1,"Related Work Experience",11,"Over 10 years",3.33
+17-1022.01,"Geodetic Surveyors",3.A.1,"Related Work Experience",1,None,15
+17-1022.01,"Geodetic Surveyors",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",15
+17-1022.01,"Geodetic Surveyors",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",20
+17-1022.01,"Geodetic Surveyors",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",20
+17-1022.01,"Geodetic Surveyors",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",25
+17-1022.01,"Geodetic Surveyors",3.A.1,"Related Work Experience",11,"Over 10 years",5
+17-2011.00,"Aerospace Engineers",3.A.1,"Related Work Experience",1,None,7.47
+17-2011.00,"Aerospace Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",6.59
+17-2011.00,"Aerospace Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.38
+17-2011.00,"Aerospace Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",32.26
+17-2011.00,"Aerospace Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20.48
+17-2011.00,"Aerospace Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",7.57
+17-2011.00,"Aerospace Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",9.67
+17-2011.00,"Aerospace Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",6.59
+17-2021.00,"Agricultural Engineers",3.A.1,"Related Work Experience",1,None,30.77
+17-2021.00,"Agricultural Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",3.85
+17-2021.00,"Agricultural Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",7.69
+17-2021.00,"Agricultural Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",15.38
+17-2021.00,"Agricultural Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",23.08
+17-2021.00,"Agricultural Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",7.69
+17-2021.00,"Agricultural Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",11.54
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.1,"Related Work Experience",1,None,26.67
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",6.67
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",3.33
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",3.33
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",36.67
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",13.33
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",3.33
+17-2031.00,"Bioengineers and Biomedical Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",6.67
+17-2041.00,"Chemical Engineers",3.A.1,"Related Work Experience",1,None,36.36
+17-2041.00,"Chemical Engineers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",4.55
+17-2041.00,"Chemical Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",9.09
+17-2041.00,"Chemical Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",9.09
+17-2041.00,"Chemical Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",13.64
+17-2041.00,"Chemical Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",9.09
+17-2041.00,"Chemical Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",13.64
+17-2041.00,"Chemical Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",4.55
+17-2051.00,"Civil Engineers",3.A.1,"Related Work Experience",1,None,23.81
+17-2051.00,"Civil Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.76
+17-2051.00,"Civil Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",14.29
+17-2051.00,"Civil Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",23.81
+17-2051.00,"Civil Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",28.57
+17-2051.00,"Civil Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.76
+17-2051.01,"Transportation Engineers",3.A.1,"Related Work Experience",1,None,36.36
+17-2051.01,"Transportation Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.55
+17-2051.01,"Transportation Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",13.64
+17-2051.01,"Transportation Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",4.55
+17-2051.01,"Transportation Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",9.09
+17-2051.01,"Transportation Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",22.73
+17-2051.01,"Transportation Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.09
+17-2051.02,"Water/Wastewater Engineers",3.A.1,"Related Work Experience",1,None,18.18
+17-2051.02,"Water/Wastewater Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",9.09
+17-2051.02,"Water/Wastewater Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",22.73
+17-2051.02,"Water/Wastewater Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.09
+17-2051.02,"Water/Wastewater Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",22.73
+17-2051.02,"Water/Wastewater Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",4.55
+17-2051.02,"Water/Wastewater Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.55
+17-2051.02,"Water/Wastewater Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",9.09
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",1,None,10.34
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",6.9
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",3.45
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",27.59
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",24.14
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",3.45
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10.34
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",3.45
+17-2061.00,"Computer Hardware Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",10.34
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",1,None,2.65
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",1.81
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",6.13
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",36.85
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",16.24
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",4.34
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",12.76
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",0.44
+17-2071.00,"Electrical Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",18.77
+17-2072.00,"Electronics Engineers, Except Computer",3.A.1,"Related Work Experience",1,None,0.69
+17-2072.00,"Electronics Engineers, Except Computer",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",9.13
+17-2072.00,"Electronics Engineers, Except Computer",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",34.86
+17-2072.00,"Electronics Engineers, Except Computer",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",23.94
+17-2072.00,"Electronics Engineers, Except Computer",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",12.92
+17-2072.00,"Electronics Engineers, Except Computer",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",12.32
+17-2072.00,"Electronics Engineers, Except Computer",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",0.17
+17-2072.00,"Electronics Engineers, Except Computer",3.A.1,"Related Work Experience",11,"Over 10 years",5.96
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",7.8
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",17.47
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25.56
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10.14
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10.83
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",3.4
+17-2072.01,"Radio Frequency Identification Device Specialists",3.A.1,"Related Work Experience",11,"Over 10 years",24.79
+17-2081.00,"Environmental Engineers",3.A.1,"Related Work Experience",1,None,9.09
+17-2081.00,"Environmental Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",9.09
+17-2081.00,"Environmental Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",22.73
+17-2081.00,"Environmental Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",13.64
+17-2081.00,"Environmental Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",18.18
+17-2081.00,"Environmental Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",22.73
+17-2081.00,"Environmental Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.55
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.1,"Related Work Experience",1,None,35
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",5
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",5
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",5
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",10
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10
+17-2111.02,"Fire-Prevention and Protection Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",5
+17-2112.00,"Industrial Engineers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",4.54
+17-2112.00,"Industrial Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",1.56
+17-2112.00,"Industrial Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",8.94
+17-2112.00,"Industrial Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",42.46
+17-2112.00,"Industrial Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",15.29
+17-2112.00,"Industrial Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",5.82
+17-2112.00,"Industrial Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",16.76
+17-2112.00,"Industrial Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",4.62
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.1,"Related Work Experience",1,None,4.76
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.1,"Related Work Experience",2,"Up to and including 1 month",4.76
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.76
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",19.05
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",33.33
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",23.81
+17-2112.01,"Human Factors Engineers and Ergonomists",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",9.52
+17-2112.02,"Validation Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",5
+17-2112.02,"Validation Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",50
+17-2112.02,"Validation Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",35
+17-2112.02,"Validation Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",10
+17-2112.03,"Manufacturing Engineers",3.A.1,"Related Work Experience",1,None,15.38
+17-2112.03,"Manufacturing Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",3.85
+17-2112.03,"Manufacturing Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",15.38
+17-2112.03,"Manufacturing Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",30.77
+17-2112.03,"Manufacturing Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",11.54
+17-2112.03,"Manufacturing Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",11.54
+17-2112.03,"Manufacturing Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",3.85
+17-2112.03,"Manufacturing Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",7.69
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",1,None,23.81
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",4.76
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",9.52
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",23.81
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",19.05
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",4.76
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",4.76
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.76
+17-2131.00,"Materials Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",4.76
+17-2141.00,"Mechanical Engineers",3.A.1,"Related Work Experience",1,None,4.18
+17-2141.00,"Mechanical Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",10.38
+17-2141.00,"Mechanical Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",6.98
+17-2141.00,"Mechanical Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25.93
+17-2141.00,"Mechanical Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",26.4
+17-2141.00,"Mechanical Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",17.61
+17-2141.00,"Mechanical Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",5.9
+17-2141.00,"Mechanical Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",2.62
+17-2141.01,"Fuel Cell Engineers",3.A.1,"Related Work Experience",1,None,12.5
+17-2141.01,"Fuel Cell Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.17
+17-2141.01,"Fuel Cell Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",8.33
+17-2141.01,"Fuel Cell Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",29.17
+17-2141.01,"Fuel Cell Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",25
+17-2141.01,"Fuel Cell Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",8.33
+17-2141.01,"Fuel Cell Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",8.33
+17-2141.01,"Fuel Cell Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",4.17
+17-2141.02,"Automotive Engineers",3.A.1,"Related Work Experience",1,None,13.04
+17-2141.02,"Automotive Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.35
+17-2141.02,"Automotive Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",8.7
+17-2141.02,"Automotive Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",30.43
+17-2141.02,"Automotive Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.74
+17-2141.02,"Automotive Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",8.7
+17-2141.02,"Automotive Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",8.7
+17-2141.02,"Automotive Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",4.35
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",3.A.1,"Related Work Experience",1,None,9.08
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",25.59
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",3.65
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.56
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",1.37
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",19.39
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",19.36
+17-2161.00,"Nuclear Engineers",3.A.1,"Related Work Experience",1,None,55.56
+17-2161.00,"Nuclear Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",3.7
+17-2161.00,"Nuclear Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",7.41
+17-2161.00,"Nuclear Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",3.7
+17-2161.00,"Nuclear Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",18.52
+17-2161.00,"Nuclear Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",3.7
+17-2161.00,"Nuclear Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",3.7
+17-2161.00,"Nuclear Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",3.7
+17-2171.00,"Petroleum Engineers",3.A.1,"Related Work Experience",1,None,5.8
+17-2171.00,"Petroleum Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",15.43
+17-2171.00,"Petroleum Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",16.64
+17-2171.00,"Petroleum Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",1.75
+17-2171.00,"Petroleum Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",20.93
+17-2171.00,"Petroleum Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",21.23
+17-2171.00,"Petroleum Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",18.22
+17-2199.03,"Energy Engineers, Except Wind and Solar",3.A.1,"Related Work Experience",1,None,4.55
+17-2199.03,"Energy Engineers, Except Wind and Solar",3.A.1,"Related Work Experience",3,"Over 1 month, up to and including 3 months",4.55
+17-2199.03,"Energy Engineers, Except Wind and Solar",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",9.09
+17-2199.03,"Energy Engineers, Except Wind and Solar",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",31.82
+17-2199.03,"Energy Engineers, Except Wind and Solar",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",31.82
+17-2199.03,"Energy Engineers, Except Wind and Solar",3.A.1,"Related Work Experience",10,"Over 8 years, up to and including 10 years",4.55
+17-2199.03,"Energy Engineers, Except Wind and Solar",3.A.1,"Related Work Experience",11,"Over 10 years",13.64
+17-2199.05,"Mechatronics Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",10.2
+17-2199.05,"Mechatronics Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",13.92
+17-2199.05,"Mechatronics Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",12.75
+17-2199.05,"Mechatronics Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",32.71
+17-2199.05,"Mechatronics Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",18.41
+17-2199.05,"Mechatronics Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",12.01
+17-2199.06,"Microsystems Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",0.3
+17-2199.06,"Microsystems Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",38.55
+17-2199.06,"Microsystems Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",8.82
+17-2199.06,"Microsystems Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",21.93
+17-2199.06,"Microsystems Engineers",3.A.1,"Related Work Experience",9,"Over 6 years, up to and including 8 years",16.65
+17-2199.06,"Microsystems Engineers",3.A.1,"Related Work Experience",11,"Over 10 years",13.76
+17-2199.07,"Photonics Engineers",3.A.1,"Related Work Experience",1,None,26.09
+17-2199.07,"Photonics Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",4.35
+17-2199.07,"Photonics Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",4.35
+17-2199.07,"Photonics Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",8.7
+17-2199.07,"Photonics Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",30.43
+17-2199.07,"Photonics Engineers",3.A.1,"Related Work Experience",8,"Over 4 years, up to and including 6 years",26.09
+17-2199.08,"Robotics Engineers",3.A.1,"Related Work Experience",1,None,3.33
+17-2199.08,"Robotics Engineers",3.A.1,"Related Work Experience",2,"Up to and including 1 month",3.33
+17-2199.08,"Robotics Engineers",3.A.1,"Related Work Experience",4,"Over 3 months, up to and including 6 months",10
+17-2199.08,"Robotics Engineers",3.A.1,"Related Work Experience",5,"Over 6 months, up to and including 1 year",6.67
+17-2199.08,"Robotics Engineers",3.A.1,"Related Work Experience",6,"Over 1 year, up to and including 2 years",6.67
+17-2199.08,"Robotics Engineers",3.A.1,"Related Work Experience",7,"Over 2 years, up to and including 4 years",33.33

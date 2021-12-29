@@ -1,0 +1,1001 @@
+SOC,Title,Element_ID,Element_Name,Category,Description,Data_Value
+11-1011.00,"Chief Executives",2.D.1,"Required Level of Education",4,"Some College Courses",6.05
+11-1011.00,"Chief Executives",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.23
+11-1011.00,"Chief Executives",2.D.1,"Required Level of Education",6,"Bachelor's Degree",21.61
+11-1011.00,"Chief Executives",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",13.66
+11-1011.00,"Chief Executives",2.D.1,"Required Level of Education",8,"Master's Degree",25.83
+11-1011.00,"Chief Executives",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",19.23
+11-1011.00,"Chief Executives",2.D.1,"Required Level of Education",11,"Doctoral Degree",9.39
+11-1011.03,"Chief Sustainability Officers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",18.52
+11-1011.03,"Chief Sustainability Officers",2.D.1,"Required Level of Education",8,"Master's Degree",74.07
+11-1011.03,"Chief Sustainability Officers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",7.41
+11-1021.00,"General and Operations Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",15.2
+11-1021.00,"General and Operations Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",9
+11-1021.00,"General and Operations Managers",2.D.1,"Required Level of Education",4,"Some College Courses",19.18
+11-1021.00,"General and Operations Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",8.59
+11-1021.00,"General and Operations Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",29.29
+11-1021.00,"General and Operations Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",14.58
+11-1021.00,"General and Operations Managers",2.D.1,"Required Level of Education",8,"Master's Degree",0.8
+11-1021.00,"General and Operations Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",3.37
+11-2011.00,"Advertising and Promotions Managers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",6.16
+11-2011.00,"Advertising and Promotions Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",9.82
+11-2011.00,"Advertising and Promotions Managers",2.D.1,"Required Level of Education",4,"Some College Courses",7.67
+11-2011.00,"Advertising and Promotions Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",8.04
+11-2011.00,"Advertising and Promotions Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",60.02
+11-2011.00,"Advertising and Promotions Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",2.42
+11-2011.00,"Advertising and Promotions Managers",2.D.1,"Required Level of Education",8,"Master's Degree",5.87
+11-2021.00,"Marketing Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",3.53
+11-2021.00,"Marketing Managers",2.D.1,"Required Level of Education",4,"Some College Courses",2.8
+11-2021.00,"Marketing Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",3.03
+11-2021.00,"Marketing Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",55.76
+11-2021.00,"Marketing Managers",2.D.1,"Required Level of Education",8,"Master's Degree",24.36
+11-2021.00,"Marketing Managers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",10.52
+11-2022.00,"Sales Managers",2.D.1,"Required Level of Education",4,"Some College Courses",4.35
+11-2022.00,"Sales Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",13.04
+11-2022.00,"Sales Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",65.22
+11-2022.00,"Sales Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",8.7
+11-2022.00,"Sales Managers",2.D.1,"Required Level of Education",8,"Master's Degree",8.7
+11-3012.00,"Administrative Services Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",33.56
+11-3012.00,"Administrative Services Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",13.16
+11-3012.00,"Administrative Services Managers",2.D.1,"Required Level of Education",4,"Some College Courses",13.18
+11-3012.00,"Administrative Services Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",11.84
+11-3012.00,"Administrative Services Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",24.28
+11-3012.00,"Administrative Services Managers",2.D.1,"Required Level of Education",8,"Master's Degree",3.87
+11-3012.00,"Administrative Services Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",0.06
+11-3012.00,"Administrative Services Managers",2.D.1,"Required Level of Education",11,"Doctoral Degree",0.06
+11-3021.00,"Computer and Information Systems Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",1.26
+11-3021.00,"Computer and Information Systems Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",5.77
+11-3021.00,"Computer and Information Systems Managers",2.D.1,"Required Level of Education",4,"Some College Courses",25.96
+11-3021.00,"Computer and Information Systems Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",2.16
+11-3021.00,"Computer and Information Systems Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",47.68
+11-3021.00,"Computer and Information Systems Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",2.8
+11-3021.00,"Computer and Information Systems Managers",2.D.1,"Required Level of Education",8,"Master's Degree",14.36
+11-3031.01,"Treasurers and Controllers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4
+11-3031.01,"Treasurers and Controllers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",56
+11-3031.01,"Treasurers and Controllers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4
+11-3031.01,"Treasurers and Controllers",2.D.1,"Required Level of Education",8,"Master's Degree",32
+11-3031.01,"Treasurers and Controllers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4
+11-3031.03,"Investment Fund Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",32.66
+11-3031.03,"Investment Fund Managers",2.D.1,"Required Level of Education",8,"Master's Degree",63.33
+11-3031.03,"Investment Fund Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",2.01
+11-3031.03,"Investment Fund Managers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",2.01
+11-3051.00,"Industrial Production Managers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",5.26
+11-3051.00,"Industrial Production Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",29.42
+11-3051.00,"Industrial Production Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",16.21
+11-3051.00,"Industrial Production Managers",2.D.1,"Required Level of Education",4,"Some College Courses",11.51
+11-3051.00,"Industrial Production Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",8.1
+11-3051.00,"Industrial Production Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",25.8
+11-3051.00,"Industrial Production Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",2.45
+11-3051.00,"Industrial Production Managers",2.D.1,"Required Level of Education",8,"Master's Degree",1.24
+11-3051.01,"Quality Control Systems Managers",2.D.1,"Required Level of Education",4,"Some College Courses",10.81
+11-3051.01,"Quality Control Systems Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",1.12
+11-3051.01,"Quality Control Systems Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",73.33
+11-3051.01,"Quality Control Systems Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.75
+11-3051.01,"Quality Control Systems Managers",2.D.1,"Required Level of Education",8,"Master's Degree",10.99
+11-3051.02,"Geothermal Production Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",11.15
+11-3051.02,"Geothermal Production Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",18.91
+11-3051.02,"Geothermal Production Managers",2.D.1,"Required Level of Education",4,"Some College Courses",47.61
+11-3051.02,"Geothermal Production Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",2.72
+11-3051.02,"Geothermal Production Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",14.61
+11-3051.02,"Geothermal Production Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.99
+11-3051.03,"Biofuels Production Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",14
+11-3051.03,"Biofuels Production Managers",2.D.1,"Required Level of Education",4,"Some College Courses",19.13
+11-3051.03,"Biofuels Production Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",14.83
+11-3051.03,"Biofuels Production Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",45.44
+11-3051.03,"Biofuels Production Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",6.6
+11-3051.04,"Biomass Power Plant Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",6.83
+11-3051.04,"Biomass Power Plant Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",13.23
+11-3051.04,"Biomass Power Plant Managers",2.D.1,"Required Level of Education",4,"Some College Courses",1.75
+11-3051.04,"Biomass Power Plant Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",16.7
+11-3051.04,"Biomass Power Plant Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",61.49
+11-3051.06,"Hydroelectric Production Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",13.59
+11-3051.06,"Hydroelectric Production Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",28.95
+11-3051.06,"Hydroelectric Production Managers",2.D.1,"Required Level of Education",4,"Some College Courses",14.08
+11-3051.06,"Hydroelectric Production Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",21.28
+11-3051.06,"Hydroelectric Production Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",14.85
+11-3051.06,"Hydroelectric Production Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",7.24
+11-3061.00,"Purchasing Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",10
+11-3061.00,"Purchasing Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",75
+11-3061.00,"Purchasing Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",5
+11-3061.00,"Purchasing Managers",2.D.1,"Required Level of Education",8,"Master's Degree",10
+11-3071.04,"Supply Chain Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.76
+11-3071.04,"Supply Chain Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",66.67
+11-3071.04,"Supply Chain Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",9.52
+11-3071.04,"Supply Chain Managers",2.D.1,"Required Level of Education",8,"Master's Degree",19.05
+11-3111.00,"Compensation and Benefits Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",80.95
+11-3111.00,"Compensation and Benefits Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.76
+11-3111.00,"Compensation and Benefits Managers",2.D.1,"Required Level of Education",8,"Master's Degree",14.29
+11-3121.00,"Human Resources Managers",2.D.1,"Required Level of Education",4,"Some College Courses",4.35
+11-3121.00,"Human Resources Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",73.91
+11-3121.00,"Human Resources Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",8.7
+11-3121.00,"Human Resources Managers",2.D.1,"Required Level of Education",8,"Master's Degree",8.7
+11-3121.00,"Human Resources Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4.35
+11-3131.00,"Training and Development Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",3.7
+11-3131.00,"Training and Development Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",3.7
+11-3131.00,"Training and Development Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",51.85
+11-3131.00,"Training and Development Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",14.81
+11-3131.00,"Training and Development Managers",2.D.1,"Required Level of Education",8,"Master's Degree",18.52
+11-3131.00,"Training and Development Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",3.7
+11-3131.00,"Training and Development Managers",2.D.1,"Required Level of Education",11,"Doctoral Degree",3.7
+11-9021.00,"Construction Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",5
+11-9021.00,"Construction Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5
+11-9021.00,"Construction Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",90
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",25.65
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",6.18
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",2.D.1,"Required Level of Education",4,"Some College Courses",19.7
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",31.95
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",2.D.1,"Required Level of Education",6,"Bachelor's Degree",10.33
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",5.97
+11-9031.00,"Education and Childcare Administrators, Preschool and Daycare",2.D.1,"Required Level of Education",8,"Master's Degree",0.22
+11-9032.00,"Education Administrators, Kindergarten through Secondary",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",9.13
+11-9032.00,"Education Administrators, Kindergarten through Secondary",2.D.1,"Required Level of Education",6,"Bachelor's Degree",6.59
+11-9032.00,"Education Administrators, Kindergarten through Secondary",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",0.31
+11-9032.00,"Education Administrators, Kindergarten through Secondary",2.D.1,"Required Level of Education",8,"Master's Degree",37.06
+11-9032.00,"Education Administrators, Kindergarten through Secondary",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",43.56
+11-9032.00,"Education Administrators, Kindergarten through Secondary",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",3.22
+11-9032.00,"Education Administrators, Kindergarten through Secondary",2.D.1,"Required Level of Education",11,"Doctoral Degree",0.14
+11-9033.00,"Education Administrators, Postsecondary",2.D.1,"Required Level of Education",6,"Bachelor's Degree",7.62
+11-9033.00,"Education Administrators, Postsecondary",2.D.1,"Required Level of Education",8,"Master's Degree",47.94
+11-9033.00,"Education Administrators, Postsecondary",2.D.1,"Required Level of Education",11,"Doctoral Degree",37.24
+11-9033.00,"Education Administrators, Postsecondary",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",7.2
+11-9041.00,"Architectural and Engineering Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",1.15
+11-9041.00,"Architectural and Engineering Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",45.52
+11-9041.00,"Architectural and Engineering Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",1.15
+11-9041.00,"Architectural and Engineering Managers",2.D.1,"Required Level of Education",8,"Master's Degree",27.04
+11-9041.00,"Architectural and Engineering Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",11.85
+11-9041.00,"Architectural and Engineering Managers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",12.15
+11-9041.00,"Architectural and Engineering Managers",2.D.1,"Required Level of Education",11,"Doctoral Degree",1.15
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",1.33
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.77
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5.82
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",55.44
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",1.24
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",2.D.1,"Required Level of Education",8,"Master's Degree",28.62
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",2.D.1,"Required Level of Education",11,"Doctoral Degree",1.33
+11-9041.01,"Biofuels/Biodiesel Technology and Product Development Managers",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",1.43
+11-9051.00,"Food Service Managers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",15.37
+11-9051.00,"Food Service Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",55.19
+11-9051.00,"Food Service Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.83
+11-9051.00,"Food Service Managers",2.D.1,"Required Level of Education",4,"Some College Courses",18.35
+11-9051.00,"Food Service Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",0.71
+11-9051.00,"Food Service Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",1.91
+11-9051.00,"Food Service Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.63
+11-9071.00,"Gambling Managers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",7.99
+11-9071.00,"Gambling Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",34.91
+11-9071.00,"Gambling Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",9.81
+11-9071.00,"Gambling Managers",2.D.1,"Required Level of Education",4,"Some College Courses",7.02
+11-9071.00,"Gambling Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",8.46
+11-9071.00,"Gambling Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",31.81
+11-9081.00,"Lodging Managers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",18.32
+11-9081.00,"Lodging Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",1.15
+11-9081.00,"Lodging Managers",2.D.1,"Required Level of Education",4,"Some College Courses",5.89
+11-9081.00,"Lodging Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",3.05
+11-9081.00,"Lodging Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",71.6
+11-9111.00,"Medical and Health Services Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",19.23
+11-9111.00,"Medical and Health Services Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",65.38
+11-9111.00,"Medical and Health Services Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.85
+11-9111.00,"Medical and Health Services Managers",2.D.1,"Required Level of Education",8,"Master's Degree",11.54
+11-9121.00,"Natural Sciences Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",7.29
+11-9121.00,"Natural Sciences Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",35.07
+11-9121.00,"Natural Sciences Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",2.24
+11-9121.00,"Natural Sciences Managers",2.D.1,"Required Level of Education",8,"Master's Degree",15.07
+11-9121.00,"Natural Sciences Managers",2.D.1,"Required Level of Education",11,"Doctoral Degree",13.62
+11-9121.00,"Natural Sciences Managers",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",26.7
+11-9121.01,"Clinical Research Coordinators",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",7.03
+11-9121.01,"Clinical Research Coordinators",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",11.58
+11-9121.01,"Clinical Research Coordinators",2.D.1,"Required Level of Education",4,"Some College Courses",9.24
+11-9121.01,"Clinical Research Coordinators",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5.92
+11-9121.01,"Clinical Research Coordinators",2.D.1,"Required Level of Education",6,"Bachelor's Degree",60.13
+11-9121.01,"Clinical Research Coordinators",2.D.1,"Required Level of Education",8,"Master's Degree",4.83
+11-9121.01,"Clinical Research Coordinators",2.D.1,"Required Level of Education",11,"Doctoral Degree",1.27
+11-9121.02,"Water Resource Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50
+11-9121.02,"Water Resource Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",50
+11-9131.00,"Postmasters and Mail Superintendents",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",62.1
+11-9131.00,"Postmasters and Mail Superintendents",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",6.69
+11-9131.00,"Postmasters and Mail Superintendents",2.D.1,"Required Level of Education",4,"Some College Courses",11.07
+11-9131.00,"Postmasters and Mail Superintendents",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",6.69
+11-9131.00,"Postmasters and Mail Superintendents",2.D.1,"Required Level of Education",6,"Bachelor's Degree",13.44
+11-9141.00,"Property, Real Estate, and Community Association Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",15
+11-9141.00,"Property, Real Estate, and Community Association Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",10
+11-9141.00,"Property, Real Estate, and Community Association Managers",2.D.1,"Required Level of Education",4,"Some College Courses",5
+11-9141.00,"Property, Real Estate, and Community Association Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5
+11-9141.00,"Property, Real Estate, and Community Association Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",55
+11-9141.00,"Property, Real Estate, and Community Association Managers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",10
+11-9151.00,"Social and Community Service Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",7.24
+11-9151.00,"Social and Community Service Managers",2.D.1,"Required Level of Education",4,"Some College Courses",2.19
+11-9151.00,"Social and Community Service Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",8.15
+11-9151.00,"Social and Community Service Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50.36
+11-9151.00,"Social and Community Service Managers",2.D.1,"Required Level of Education",8,"Master's Degree",23.93
+11-9151.00,"Social and Community Service Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",8.12
+11-9161.00,"Emergency Management Directors",2.D.1,"Required Level of Education",4,"Some College Courses",8
+11-9161.00,"Emergency Management Directors",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",16
+11-9161.00,"Emergency Management Directors",2.D.1,"Required Level of Education",6,"Bachelor's Degree",52
+11-9161.00,"Emergency Management Directors",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4
+11-9161.00,"Emergency Management Directors",2.D.1,"Required Level of Education",8,"Master's Degree",20
+11-9171.00,"Funeral Home Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",7.99
+11-9171.00,"Funeral Home Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",57.28
+11-9171.00,"Funeral Home Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",12.49
+11-9171.00,"Funeral Home Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",9.49
+11-9171.00,"Funeral Home Managers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",12.75
+11-9179.01,"Fitness and Wellness Coordinators",2.D.1,"Required Level of Education",6,"Bachelor's Degree",70.83
+11-9179.01,"Fitness and Wellness Coordinators",2.D.1,"Required Level of Education",8,"Master's Degree",29.17
+11-9179.02,"Spa Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",6.23
+11-9179.02,"Spa Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",33.66
+11-9179.02,"Spa Managers",2.D.1,"Required Level of Education",4,"Some College Courses",13.83
+11-9179.02,"Spa Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",25.29
+11-9179.02,"Spa Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",20.55
+11-9179.02,"Spa Managers",2.D.1,"Required Level of Education",8,"Master's Degree",0.44
+11-9199.01,"Regulatory Affairs Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",3.57
+11-9199.01,"Regulatory Affairs Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",75
+11-9199.01,"Regulatory Affairs Managers",2.D.1,"Required Level of Education",8,"Master's Degree",14.29
+11-9199.01,"Regulatory Affairs Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",3.57
+11-9199.01,"Regulatory Affairs Managers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",3.57
+11-9199.02,"Compliance Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",8.93
+11-9199.02,"Compliance Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",6.72
+11-9199.02,"Compliance Managers",2.D.1,"Required Level of Education",4,"Some College Courses",1.27
+11-9199.02,"Compliance Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5.33
+11-9199.02,"Compliance Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",63.38
+11-9199.02,"Compliance Managers",2.D.1,"Required Level of Education",8,"Master's Degree",14.21
+11-9199.02,"Compliance Managers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",0.17
+11-9199.08,"Loss Prevention Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",13.64
+11-9199.08,"Loss Prevention Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",9.09
+11-9199.08,"Loss Prevention Managers",2.D.1,"Required Level of Education",4,"Some College Courses",9.09
+11-9199.08,"Loss Prevention Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",9.09
+11-9199.08,"Loss Prevention Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",54.55
+11-9199.08,"Loss Prevention Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.55
+11-9199.09,"Wind Energy Operations Managers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",14.92
+11-9199.09,"Wind Energy Operations Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",7.07
+11-9199.09,"Wind Energy Operations Managers",2.D.1,"Required Level of Education",4,"Some College Courses",3.55
+11-9199.09,"Wind Energy Operations Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",39.7
+11-9199.09,"Wind Energy Operations Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",34.76
+11-9199.10,"Wind Energy Development Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",18.27
+11-9199.10,"Wind Energy Development Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",66.85
+11-9199.10,"Wind Energy Development Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",2.61
+11-9199.10,"Wind Energy Development Managers",2.D.1,"Required Level of Education",8,"Master's Degree",12.28
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",77.27
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",9.09
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",2.D.1,"Required Level of Education",8,"Master's Degree",9.09
+11-9199.11,"Brownfield Redevelopment Specialists and Site Managers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4.55
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",1.34
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",37.97
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.D.1,"Required Level of Education",4,"Some College Courses",2.56
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.D.1,"Required Level of Education",6,"Bachelor's Degree",41.33
+13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",2.D.1,"Required Level of Education",8,"Master's Degree",16.8
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",7.6
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",2.D.1,"Required Level of Education",4,"Some College Courses",7.28
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",8.29
+13-1021.00,"Buyers and Purchasing Agents, Farm Products",2.D.1,"Required Level of Education",6,"Bachelor's Degree",76.83
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",13.92
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",20.3
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",10.3
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",2.D.1,"Required Level of Education",4,"Some College Courses",8.21
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",11.43
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",2.D.1,"Required Level of Education",6,"Bachelor's Degree",34.65
+13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",1.19
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",8.7
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.35
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",2.D.1,"Required Level of Education",6,"Bachelor's Degree",78.26
+13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",8.7
+13-1032.00,"Insurance Appraisers, Auto Damage",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",23.88
+13-1032.00,"Insurance Appraisers, Auto Damage",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",28.84
+13-1032.00,"Insurance Appraisers, Auto Damage",2.D.1,"Required Level of Education",4,"Some College Courses",30.6
+13-1032.00,"Insurance Appraisers, Auto Damage",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",15.21
+13-1032.00,"Insurance Appraisers, Auto Damage",2.D.1,"Required Level of Education",6,"Bachelor's Degree",1.47
+13-1041.01,"Environmental Compliance Inspectors",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",10
+13-1041.01,"Environmental Compliance Inspectors",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",15
+13-1041.01,"Environmental Compliance Inspectors",2.D.1,"Required Level of Education",6,"Bachelor's Degree",75
+13-1041.03,"Equal Opportunity Representatives and Officers",2.D.1,"Required Level of Education",4,"Some College Courses",14.07
+13-1041.03,"Equal Opportunity Representatives and Officers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",65.76
+13-1041.03,"Equal Opportunity Representatives and Officers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.44
+13-1041.03,"Equal Opportunity Representatives and Officers",2.D.1,"Required Level of Education",8,"Master's Degree",11.87
+13-1041.03,"Equal Opportunity Representatives and Officers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",1.09
+13-1041.03,"Equal Opportunity Representatives and Officers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",2.77
+13-1041.04,"Government Property Inspectors and Investigators",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",9.44
+13-1041.04,"Government Property Inspectors and Investigators",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",16.22
+13-1041.04,"Government Property Inspectors and Investigators",2.D.1,"Required Level of Education",4,"Some College Courses",10.32
+13-1041.04,"Government Property Inspectors and Investigators",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",24.68
+13-1041.04,"Government Property Inspectors and Investigators",2.D.1,"Required Level of Education",6,"Bachelor's Degree",39.34
+13-1041.06,Coroners,2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",16.67
+13-1041.06,Coroners,2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",16.67
+13-1041.06,Coroners,2.D.1,"Required Level of Education",4,"Some College Courses",5.56
+13-1041.06,Coroners,2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",16.67
+13-1041.06,Coroners,2.D.1,"Required Level of Education",6,"Bachelor's Degree",22.22
+13-1041.06,Coroners,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",5.56
+13-1041.06,Coroners,2.D.1,"Required Level of Education",11,"Doctoral Degree",5.56
+13-1041.06,Coroners,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",11.11
+13-1041.07,"Regulatory Affairs Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",80
+13-1041.07,"Regulatory Affairs Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",5
+13-1041.07,"Regulatory Affairs Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",10
+13-1041.07,"Regulatory Affairs Specialists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",5
+13-1041.08,"Customs Brokers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",5
+13-1041.08,"Customs Brokers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",45
+13-1041.08,"Customs Brokers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",20
+13-1041.08,"Customs Brokers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",10
+13-1041.08,"Customs Brokers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",20
+13-1051.00,"Cost Estimators",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",4.55
+13-1051.00,"Cost Estimators",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",9.09
+13-1051.00,"Cost Estimators",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.55
+13-1051.00,"Cost Estimators",2.D.1,"Required Level of Education",6,"Bachelor's Degree",63.64
+13-1051.00,"Cost Estimators",2.D.1,"Required Level of Education",8,"Master's Degree",18.18
+13-1071.00,"Human Resources Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",13.52
+13-1071.00,"Human Resources Specialists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1.31
+13-1071.00,"Human Resources Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",4.82
+13-1071.00,"Human Resources Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",7.16
+13-1071.00,"Human Resources Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",46.59
+13-1071.00,"Human Resources Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",1.69
+13-1071.00,"Human Resources Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",24.91
+13-1074.00,"Farm Labor Contractors",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",48
+13-1074.00,"Farm Labor Contractors",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",42.83
+13-1074.00,"Farm Labor Contractors",2.D.1,"Required Level of Education",4,"Some College Courses",8.9
+13-1074.00,"Farm Labor Contractors",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",0.14
+13-1074.00,"Farm Labor Contractors",2.D.1,"Required Level of Education",8,"Master's Degree",0.14
+13-1075.00,"Labor Relations Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",20
+13-1075.00,"Labor Relations Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",10
+13-1075.00,"Labor Relations Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",30
+13-1075.00,"Labor Relations Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",10
+13-1075.00,"Labor Relations Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",25
+13-1075.00,"Labor Relations Specialists",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",5
+13-1081.00,Logisticians,2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",8.33
+13-1081.00,Logisticians,2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",8.33
+13-1081.00,Logisticians,2.D.1,"Required Level of Education",4,"Some College Courses",8.33
+13-1081.00,Logisticians,2.D.1,"Required Level of Education",6,"Bachelor's Degree",75
+13-1081.01,"Logistics Engineers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",5
+13-1081.01,"Logistics Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",5
+13-1081.01,"Logistics Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",10
+13-1081.01,"Logistics Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",75
+13-1081.01,"Logistics Engineers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",5
+13-1081.02,"Logistics Analysts",2.D.1,"Required Level of Education",4,"Some College Courses",4.55
+13-1081.02,"Logistics Analysts",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",22.73
+13-1081.02,"Logistics Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",63.64
+13-1081.02,"Logistics Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",4.55
+13-1081.02,"Logistics Analysts",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4.55
+13-1111.00,"Management Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",38.46
+13-1111.00,"Management Analysts",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",11.54
+13-1111.00,"Management Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",46.15
+13-1111.00,"Management Analysts",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",3.85
+13-1121.00,"Meeting, Convention, and Event Planners",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",7.85
+13-1121.00,"Meeting, Convention, and Event Planners",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",6.64
+13-1121.00,"Meeting, Convention, and Event Planners",2.D.1,"Required Level of Education",4,"Some College Courses",37.22
+13-1121.00,"Meeting, Convention, and Event Planners",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",7.49
+13-1121.00,"Meeting, Convention, and Event Planners",2.D.1,"Required Level of Education",6,"Bachelor's Degree",40.8
+13-1131.00,Fundraisers,2.D.1,"Required Level of Education",6,"Bachelor's Degree",90.48
+13-1131.00,Fundraisers,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.76
+13-1131.00,Fundraisers,2.D.1,"Required Level of Education",8,"Master's Degree",4.76
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",8.7
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.35
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",8.7
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.35
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",69.57
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",4.35
+13-1151.00,"Training and Development Specialists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",2.78
+13-1151.00,"Training and Development Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",2.78
+13-1151.00,"Training and Development Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5.56
+13-1151.00,"Training and Development Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",58.33
+13-1151.00,"Training and Development Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",11.11
+13-1151.00,"Training and Development Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",16.67
+13-1151.00,"Training and Development Specialists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",2.78
+13-1161.00,"Market Research Analysts and Marketing Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",56.52
+13-1161.00,"Market Research Analysts and Marketing Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.35
+13-1161.00,"Market Research Analysts and Marketing Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",39.13
+13-1161.01,"Search Marketing Strategists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",4.35
+13-1161.01,"Search Marketing Strategists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",8.7
+13-1161.01,"Search Marketing Strategists",2.D.1,"Required Level of Education",4,"Some College Courses",17.39
+13-1161.01,"Search Marketing Strategists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",21.74
+13-1161.01,"Search Marketing Strategists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",47.83
+13-1199.04,"Business Continuity Planners",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.55
+13-1199.04,"Business Continuity Planners",2.D.1,"Required Level of Education",4,"Some College Courses",9.09
+13-1199.04,"Business Continuity Planners",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",9.09
+13-1199.04,"Business Continuity Planners",2.D.1,"Required Level of Education",6,"Bachelor's Degree",68.18
+13-1199.04,"Business Continuity Planners",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",9.09
+13-1199.05,"Sustainability Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",4.35
+13-1199.05,"Sustainability Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",52.17
+13-1199.05,"Sustainability Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.35
+13-1199.05,"Sustainability Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",39.13
+13-1199.06,"Online Merchants",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",32.67
+13-1199.06,"Online Merchants",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",12.12
+13-1199.06,"Online Merchants",2.D.1,"Required Level of Education",4,"Some College Courses",8.71
+13-1199.06,"Online Merchants",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5.22
+13-1199.06,"Online Merchants",2.D.1,"Required Level of Education",6,"Bachelor's Degree",41.29
+13-2031.00,"Budget Analysts",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",10.06
+13-2031.00,"Budget Analysts",2.D.1,"Required Level of Education",4,"Some College Courses",3.28
+13-2031.00,"Budget Analysts",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",10.63
+13-2031.00,"Budget Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",63.99
+13-2031.00,"Budget Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",9.37
+13-2031.00,"Budget Analysts",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",2.67
+13-2041.00,"Credit Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",95
+13-2041.00,"Credit Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",5
+13-2052.00,"Personal Financial Advisors",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",4.35
+13-2052.00,"Personal Financial Advisors",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.35
+13-2052.00,"Personal Financial Advisors",2.D.1,"Required Level of Education",6,"Bachelor's Degree",52.17
+13-2052.00,"Personal Financial Advisors",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",34.78
+13-2052.00,"Personal Financial Advisors",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4.35
+13-2053.00,"Insurance Underwriters",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",10
+13-2053.00,"Insurance Underwriters",2.D.1,"Required Level of Education",4,"Some College Courses",6.67
+13-2053.00,"Insurance Underwriters",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",10
+13-2053.00,"Insurance Underwriters",2.D.1,"Required Level of Education",6,"Bachelor's Degree",70
+13-2053.00,"Insurance Underwriters",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.33
+13-2061.00,"Financial Examiners",2.D.1,"Required Level of Education",6,"Bachelor's Degree",86.96
+13-2061.00,"Financial Examiners",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",8.7
+13-2061.00,"Financial Examiners",2.D.1,"Required Level of Education",8,"Master's Degree",4.35
+13-2071.00,"Credit Counselors",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",36
+13-2071.00,"Credit Counselors",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",12
+13-2071.00,"Credit Counselors",2.D.1,"Required Level of Education",4,"Some College Courses",8
+13-2071.00,"Credit Counselors",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4
+13-2071.00,"Credit Counselors",2.D.1,"Required Level of Education",6,"Bachelor's Degree",40
+13-2072.00,"Loan Officers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",6.13
+13-2072.00,"Loan Officers",2.D.1,"Required Level of Education",4,"Some College Courses",12.83
+13-2072.00,"Loan Officers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",11.18
+13-2072.00,"Loan Officers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",68.74
+13-2072.00,"Loan Officers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",1.12
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",31.95
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.43
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",2.D.1,"Required Level of Education",4,"Some College Courses",7.72
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",6.72
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",2.D.1,"Required Level of Education",6,"Bachelor's Degree",39.99
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",0.55
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",2.D.1,"Required Level of Education",8,"Master's Degree",8.09
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",0.55
+13-2082.00,"Tax Preparers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",4.55
+13-2082.00,"Tax Preparers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",31.82
+13-2082.00,"Tax Preparers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",13.64
+13-2082.00,"Tax Preparers",2.D.1,"Required Level of Education",4,"Some College Courses",18.18
+13-2082.00,"Tax Preparers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",31.82
+13-2099.01,"Financial Quantitative Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",13.04
+13-2099.01,"Financial Quantitative Analysts",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",13.04
+13-2099.01,"Financial Quantitative Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",65.22
+13-2099.01,"Financial Quantitative Analysts",2.D.1,"Required Level of Education",11,"Doctoral Degree",8.7
+13-2099.04,"Fraud Examiners, Investigators and Analysts",2.D.1,"Required Level of Education",4,"Some College Courses",4
+13-2099.04,"Fraud Examiners, Investigators and Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",72
+13-2099.04,"Fraud Examiners, Investigators and Analysts",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",8
+13-2099.04,"Fraud Examiners, Investigators and Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",12
+13-2099.04,"Fraud Examiners, Investigators and Analysts",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4
+15-1211.00,"Computer Systems Analysts",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",2.51
+15-1211.00,"Computer Systems Analysts",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",5.8
+15-1211.00,"Computer Systems Analysts",2.D.1,"Required Level of Education",4,"Some College Courses",3.85
+15-1211.00,"Computer Systems Analysts",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",29.03
+15-1211.00,"Computer Systems Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",33.34
+15-1211.00,"Computer Systems Analysts",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",11.26
+15-1211.00,"Computer Systems Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",14.21
+15-1211.01,"Health Informatics Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.55
+15-1211.01,"Health Informatics Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",45.45
+15-1211.01,"Health Informatics Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.55
+15-1211.01,"Health Informatics Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",40.91
+15-1211.01,"Health Informatics Specialists",2.D.1,"Required Level of Education",11,"Doctoral Degree",4.55
+15-1212.00,"Information Security Analysts",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",7.16
+15-1212.00,"Information Security Analysts",2.D.1,"Required Level of Education",4,"Some College Courses",2.01
+15-1212.00,"Information Security Analysts",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",12.87
+15-1212.00,"Information Security Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",52.64
+15-1212.00,"Information Security Analysts",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",22.52
+15-1212.00,"Information Security Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",2.8
+15-1221.00,"Computer and Information Research Scientists",2.D.1,"Required Level of Education",4,"Some College Courses",8.35
+15-1221.00,"Computer and Information Research Scientists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",36.22
+15-1221.00,"Computer and Information Research Scientists",2.D.1,"Required Level of Education",8,"Master's Degree",19.93
+15-1221.00,"Computer and Information Research Scientists",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",2.58
+15-1221.00,"Computer and Information Research Scientists",2.D.1,"Required Level of Education",11,"Doctoral Degree",28.42
+15-1221.00,"Computer and Information Research Scientists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",4.5
+15-1231.00,"Computer Network Support Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",4.23
+15-1231.00,"Computer Network Support Specialists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",10.16
+15-1231.00,"Computer Network Support Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",13.63
+15-1231.00,"Computer Network Support Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",21.68
+15-1231.00,"Computer Network Support Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",46.93
+15-1231.00,"Computer Network Support Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",1.84
+15-1231.00,"Computer Network Support Specialists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",1.53
+15-1232.00,"Computer User Support Specialists",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",0.35
+15-1232.00,"Computer User Support Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",21.69
+15-1232.00,"Computer User Support Specialists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",11.76
+15-1232.00,"Computer User Support Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",18.84
+15-1232.00,"Computer User Support Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",14.15
+15-1232.00,"Computer User Support Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",33.2
+15-1241.00,"Computer Network Architects",2.D.1,"Required Level of Education",4,"Some College Courses",4.55
+15-1241.00,"Computer Network Architects",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.55
+15-1241.00,"Computer Network Architects",2.D.1,"Required Level of Education",6,"Bachelor's Degree",31.82
+15-1241.00,"Computer Network Architects",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",13.64
+15-1241.00,"Computer Network Architects",2.D.1,"Required Level of Education",8,"Master's Degree",36.36
+15-1241.00,"Computer Network Architects",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",9.09
+15-1241.01,"Telecommunications Engineering Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",4.76
+15-1241.01,"Telecommunications Engineering Specialists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",23.81
+15-1241.01,"Telecommunications Engineering Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",14.29
+15-1241.01,"Telecommunications Engineering Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",14.29
+15-1241.01,"Telecommunications Engineering Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",19.05
+15-1241.01,"Telecommunications Engineering Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",14.29
+15-1241.01,"Telecommunications Engineering Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",4.76
+15-1241.01,"Telecommunications Engineering Specialists",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4.76
+15-1242.00,"Database Administrators",2.D.1,"Required Level of Education",4,"Some College Courses",0.6
+15-1242.00,"Database Administrators",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",7.35
+15-1242.00,"Database Administrators",2.D.1,"Required Level of Education",6,"Bachelor's Degree",76.59
+15-1242.00,"Database Administrators",2.D.1,"Required Level of Education",8,"Master's Degree",4.68
+15-1242.00,"Database Administrators",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",10.78
+15-1243.00,"Database Architects",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.17
+15-1243.00,"Database Architects",2.D.1,"Required Level of Education",6,"Bachelor's Degree",58.33
+15-1243.00,"Database Architects",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.17
+15-1243.00,"Database Architects",2.D.1,"Required Level of Education",8,"Master's Degree",29.17
+15-1243.00,"Database Architects",2.D.1,"Required Level of Education",11,"Doctoral Degree",4.17
+15-1243.01,"Data Warehousing Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",4.35
+15-1243.01,"Data Warehousing Specialists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.35
+15-1243.01,"Data Warehousing Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",4.35
+15-1243.01,"Data Warehousing Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.35
+15-1243.01,"Data Warehousing Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",78.26
+15-1243.01,"Data Warehousing Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",4.35
+15-1244.00,"Network and Computer Systems Administrators",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",7.49
+15-1244.00,"Network and Computer Systems Administrators",2.D.1,"Required Level of Education",4,"Some College Courses",9.72
+15-1244.00,"Network and Computer Systems Administrators",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",20.3
+15-1244.00,"Network and Computer Systems Administrators",2.D.1,"Required Level of Education",6,"Bachelor's Degree",52.37
+15-1244.00,"Network and Computer Systems Administrators",2.D.1,"Required Level of Education",8,"Master's Degree",10.13
+15-1251.00,"Computer Programmers",2.D.1,"Required Level of Education",4,"Some College Courses",2.52
+15-1251.00,"Computer Programmers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",8.99
+15-1251.00,"Computer Programmers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",88.04
+15-1251.00,"Computer Programmers",2.D.1,"Required Level of Education",8,"Master's Degree",0.45
+15-1253.00,"Software Quality Assurance Analysts and Testers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",3.7
+15-1253.00,"Software Quality Assurance Analysts and Testers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",7.41
+15-1253.00,"Software Quality Assurance Analysts and Testers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",14.81
+15-1253.00,"Software Quality Assurance Analysts and Testers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",70.37
+15-1253.00,"Software Quality Assurance Analysts and Testers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.7
+15-1254.00,"Web Developers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",4.17
+15-1254.00,"Web Developers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",8.33
+15-1254.00,"Web Developers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",16.67
+15-1254.00,"Web Developers",2.D.1,"Required Level of Education",4,"Some College Courses",4.17
+15-1254.00,"Web Developers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",16.67
+15-1254.00,"Web Developers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",45.83
+15-1254.00,"Web Developers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.17
+15-1255.01,"Video Game Designers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",4.76
+15-1255.01,"Video Game Designers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",4.76
+15-1255.01,"Video Game Designers",2.D.1,"Required Level of Education",4,"Some College Courses",9.52
+15-1255.01,"Video Game Designers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",19.05
+15-1255.01,"Video Game Designers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",57.14
+15-1255.01,"Video Game Designers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.76
+15-1299.01,"Web Administrators",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",5
+15-1299.01,"Web Administrators",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",5
+15-1299.01,"Web Administrators",2.D.1,"Required Level of Education",4,"Some College Courses",15
+15-1299.01,"Web Administrators",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",15
+15-1299.01,"Web Administrators",2.D.1,"Required Level of Education",6,"Bachelor's Degree",55
+15-1299.01,"Web Administrators",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",5
+15-1299.03,"Document Management Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",5
+15-1299.03,"Document Management Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",10
+15-1299.03,"Document Management Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",60
+15-1299.03,"Document Management Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",10
+15-1299.03,"Document Management Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",15
+15-1299.08,"Computer Systems Engineers/Architects",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",10
+15-1299.08,"Computer Systems Engineers/Architects",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",3.33
+15-1299.08,"Computer Systems Engineers/Architects",2.D.1,"Required Level of Education",6,"Bachelor's Degree",56.67
+15-1299.08,"Computer Systems Engineers/Architects",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",10
+15-1299.08,"Computer Systems Engineers/Architects",2.D.1,"Required Level of Education",8,"Master's Degree",16.67
+15-1299.08,"Computer Systems Engineers/Architects",2.D.1,"Required Level of Education",11,"Doctoral Degree",3.33
+15-1299.09,"Information Technology Project Managers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",9.52
+15-1299.09,"Information Technology Project Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",23.81
+15-1299.09,"Information Technology Project Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",38.1
+15-1299.09,"Information Technology Project Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",19.05
+15-1299.09,"Information Technology Project Managers",2.D.1,"Required Level of Education",8,"Master's Degree",9.52
+15-2011.00,Actuaries,2.D.1,"Required Level of Education",6,"Bachelor's Degree",62.5
+15-2011.00,Actuaries,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",25
+15-2011.00,Actuaries,2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",12.5
+15-2021.00,Mathematicians,2.D.1,"Required Level of Education",6,"Bachelor's Degree",8.33
+15-2021.00,Mathematicians,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",8.33
+15-2021.00,Mathematicians,2.D.1,"Required Level of Education",8,"Master's Degree",25
+15-2021.00,Mathematicians,2.D.1,"Required Level of Education",11,"Doctoral Degree",50
+15-2021.00,Mathematicians,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",8.33
+15-2031.00,"Operations Research Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",30
+15-2031.00,"Operations Research Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",70
+15-2041.00,Statisticians,2.D.1,"Required Level of Education",6,"Bachelor's Degree",15
+15-2041.00,Statisticians,2.D.1,"Required Level of Education",8,"Master's Degree",65
+15-2041.00,Statisticians,2.D.1,"Required Level of Education",11,"Doctoral Degree",20
+15-2041.01,Biostatisticians,2.D.1,"Required Level of Education",6,"Bachelor's Degree",12.5
+15-2041.01,Biostatisticians,2.D.1,"Required Level of Education",8,"Master's Degree",58.33
+15-2041.01,Biostatisticians,2.D.1,"Required Level of Education",11,"Doctoral Degree",29.17
+15-2051.01,"Business Intelligence Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",76.19
+15-2051.01,"Business Intelligence Analysts",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.76
+15-2051.01,"Business Intelligence Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",14.29
+15-2051.01,"Business Intelligence Analysts",2.D.1,"Required Level of Education",11,"Doctoral Degree",4.76
+15-2051.02,"Clinical Data Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5
+15-2051.02,"Clinical Data Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",85
+15-2051.02,"Clinical Data Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",5
+15-2051.02,"Clinical Data Managers",2.D.1,"Required Level of Education",8,"Master's Degree",5
+15-2099.01,"Bioinformatics Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50.89
+15-2099.01,"Bioinformatics Technicians",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",2.45
+15-2099.01,"Bioinformatics Technicians",2.D.1,"Required Level of Education",8,"Master's Degree",40.66
+15-2099.01,"Bioinformatics Technicians",2.D.1,"Required Level of Education",11,"Doctoral Degree",4.11
+15-2099.01,"Bioinformatics Technicians",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",1.89
+17-1011.00,"Architects, Except Landscape and Naval",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.76
+17-1011.00,"Architects, Except Landscape and Naval",2.D.1,"Required Level of Education",6,"Bachelor's Degree",42.86
+17-1011.00,"Architects, Except Landscape and Naval",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.76
+17-1011.00,"Architects, Except Landscape and Naval",2.D.1,"Required Level of Education",8,"Master's Degree",23.81
+17-1011.00,"Architects, Except Landscape and Naval",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",23.81
+17-1012.00,"Landscape Architects",2.D.1,"Required Level of Education",6,"Bachelor's Degree",67.86
+17-1012.00,"Landscape Architects",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.57
+17-1012.00,"Landscape Architects",2.D.1,"Required Level of Education",8,"Master's Degree",17.86
+17-1012.00,"Landscape Architects",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",10.71
+17-1021.00,"Cartographers and Photogrammetrists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",35.73
+17-1021.00,"Cartographers and Photogrammetrists",2.D.1,"Required Level of Education",4,"Some College Courses",10.63
+17-1021.00,"Cartographers and Photogrammetrists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",11.15
+17-1021.00,"Cartographers and Photogrammetrists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",30.02
+17-1021.00,"Cartographers and Photogrammetrists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",1.48
+17-1021.00,"Cartographers and Photogrammetrists",2.D.1,"Required Level of Education",8,"Master's Degree",10.99
+17-1022.00,Surveyors,2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",16.13
+17-1022.00,Surveyors,2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",3.23
+17-1022.00,Surveyors,2.D.1,"Required Level of Education",4,"Some College Courses",6.45
+17-1022.00,Surveyors,2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",32.26
+17-1022.00,Surveyors,2.D.1,"Required Level of Education",6,"Bachelor's Degree",41.94
+17-1022.01,"Geodetic Surveyors",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",15
+17-1022.01,"Geodetic Surveyors",2.D.1,"Required Level of Education",4,"Some College Courses",5
+17-1022.01,"Geodetic Surveyors",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50
+17-1022.01,"Geodetic Surveyors",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",5
+17-1022.01,"Geodetic Surveyors",2.D.1,"Required Level of Education",8,"Master's Degree",25
+17-2011.00,"Aerospace Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",7.61
+17-2011.00,"Aerospace Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",59.05
+17-2011.00,"Aerospace Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",33.34
+17-2021.00,"Agricultural Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",69.23
+17-2021.00,"Agricultural Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",11.54
+17-2021.00,"Agricultural Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",11.54
+17-2021.00,"Agricultural Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",7.69
+17-2031.00,"Bioengineers and Biomedical Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",53.33
+17-2031.00,"Bioengineers and Biomedical Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.33
+17-2031.00,"Bioengineers and Biomedical Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",30
+17-2031.00,"Bioengineers and Biomedical Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",6.67
+17-2031.00,"Bioengineers and Biomedical Engineers",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",6.67
+17-2041.00,"Chemical Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",81.82
+17-2041.00,"Chemical Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",9.09
+17-2041.00,"Chemical Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",9.09
+17-2051.00,"Civil Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",85.71
+17-2051.00,"Civil Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.76
+17-2051.00,"Civil Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",9.52
+17-2051.01,"Transportation Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",90.91
+17-2051.01,"Transportation Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",9.09
+17-2051.02,"Water/Wastewater Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",69.57
+17-2051.02,"Water/Wastewater Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",26.09
+17-2051.02,"Water/Wastewater Engineers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4.35
+17-2061.00,"Computer Hardware Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",6.9
+17-2061.00,"Computer Hardware Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",48.28
+17-2061.00,"Computer Hardware Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",34.48
+17-2061.00,"Computer Hardware Engineers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",3.45
+17-2061.00,"Computer Hardware Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",6.9
+17-2071.00,"Electrical Engineers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",2.58
+17-2071.00,"Electrical Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",0.44
+17-2071.00,"Electrical Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",1.83
+17-2071.00,"Electrical Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",70.15
+17-2071.00,"Electrical Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",1.25
+17-2071.00,"Electrical Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",23.33
+17-2071.00,"Electrical Engineers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",0.44
+17-2072.00,"Electronics Engineers, Except Computer",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",17.2
+17-2072.00,"Electronics Engineers, Except Computer",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",14.8
+17-2072.00,"Electronics Engineers, Except Computer",2.D.1,"Required Level of Education",6,"Bachelor's Degree",57.21
+17-2072.00,"Electronics Engineers, Except Computer",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",0.47
+17-2072.00,"Electronics Engineers, Except Computer",2.D.1,"Required Level of Education",8,"Master's Degree",1.48
+17-2072.00,"Electronics Engineers, Except Computer",2.D.1,"Required Level of Education",11,"Doctoral Degree",8.84
+17-2072.01,"Radio Frequency Identification Device Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",5.58
+17-2072.01,"Radio Frequency Identification Device Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",10.14
+17-2072.01,"Radio Frequency Identification Device Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",74.83
+17-2072.01,"Radio Frequency Identification Device Specialists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",1.79
+17-2072.01,"Radio Frequency Identification Device Specialists",2.D.1,"Required Level of Education",8,"Master's Degree",7.66
+17-2081.00,"Environmental Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",63.64
+17-2081.00,"Environmental Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",9.09
+17-2081.00,"Environmental Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",27.27
+17-2111.02,"Fire-Prevention and Protection Engineers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",5
+17-2111.02,"Fire-Prevention and Protection Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",85
+17-2111.02,"Fire-Prevention and Protection Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",5
+17-2111.02,"Fire-Prevention and Protection Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",5
+17-2112.00,"Industrial Engineers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",7.54
+17-2112.00,"Industrial Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",15.81
+17-2112.00,"Industrial Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",2.58
+17-2112.00,"Industrial Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",58.62
+17-2112.00,"Industrial Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.36
+17-2112.00,"Industrial Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",11.09
+17-2112.01,"Human Factors Engineers and Ergonomists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",9.52
+17-2112.01,"Human Factors Engineers and Ergonomists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",14.29
+17-2112.01,"Human Factors Engineers and Ergonomists",2.D.1,"Required Level of Education",8,"Master's Degree",47.62
+17-2112.01,"Human Factors Engineers and Ergonomists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",9.52
+17-2112.01,"Human Factors Engineers and Ergonomists",2.D.1,"Required Level of Education",11,"Doctoral Degree",19.05
+17-2112.02,"Validation Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",5
+17-2112.02,"Validation Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",90
+17-2112.02,"Validation Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",5
+17-2112.03,"Manufacturing Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",4
+17-2112.03,"Manufacturing Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",16
+17-2112.03,"Manufacturing Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",76
+17-2112.03,"Manufacturing Engineers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4
+17-2131.00,"Materials Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",47.62
+17-2131.00,"Materials Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.76
+17-2131.00,"Materials Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",9.52
+17-2131.00,"Materials Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",33.33
+17-2131.00,"Materials Engineers",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",4.76
+17-2141.00,"Mechanical Engineers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",0.38
+17-2141.00,"Mechanical Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",4.77
+17-2141.00,"Mechanical Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",6.9
+17-2141.00,"Mechanical Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",82.92
+17-2141.00,"Mechanical Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.67
+17-2141.00,"Mechanical Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",0.37
+17-2141.01,"Fuel Cell Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",37.5
+17-2141.01,"Fuel Cell Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",33.33
+17-2141.01,"Fuel Cell Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",25
+17-2141.01,"Fuel Cell Engineers",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",4.17
+17-2141.02,"Automotive Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",95.65
+17-2141.02,"Automotive Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",4.35
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",0.64
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",0.64
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",79.05
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",16.69
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",2.98
+17-2161.00,"Nuclear Engineers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",3.7
+17-2161.00,"Nuclear Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",85.19
+17-2161.00,"Nuclear Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.7
+17-2161.00,"Nuclear Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",7.41
+17-2171.00,"Petroleum Engineers",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",7.55
+17-2171.00,"Petroleum Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",71.61
+17-2171.00,"Petroleum Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",5.41
+17-2171.00,"Petroleum Engineers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",15.43
+17-2199.03,"Energy Engineers, Except Wind and Solar",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",9.09
+17-2199.03,"Energy Engineers, Except Wind and Solar",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.55
+17-2199.03,"Energy Engineers, Except Wind and Solar",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50
+17-2199.03,"Energy Engineers, Except Wind and Solar",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",13.64
+17-2199.03,"Energy Engineers, Except Wind and Solar",2.D.1,"Required Level of Education",8,"Master's Degree",13.64
+17-2199.03,"Energy Engineers, Except Wind and Solar",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4.55
+17-2199.03,"Energy Engineers, Except Wind and Solar",2.D.1,"Required Level of Education",11,"Doctoral Degree",4.55
+17-2199.05,"Mechatronics Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",7.15
+17-2199.05,"Mechatronics Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",0.85
+17-2199.05,"Mechatronics Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",89.33
+17-2199.05,"Mechatronics Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",0.23
+17-2199.05,"Mechatronics Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",2.43
+17-2199.06,"Microsystems Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",0.3
+17-2199.06,"Microsystems Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",30.61
+17-2199.06,"Microsystems Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",13.11
+17-2199.06,"Microsystems Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",34.17
+17-2199.06,"Microsystems Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",21.81
+17-2199.07,"Photonics Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.76
+17-2199.07,"Photonics Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",52.38
+17-2199.07,"Photonics Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",38.1
+17-2199.07,"Photonics Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",4.76
+17-2199.08,"Robotics Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",3.33
+17-2199.08,"Robotics Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",16.67
+17-2199.08,"Robotics Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50
+17-2199.08,"Robotics Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",6.67
+17-2199.08,"Robotics Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",16.67
+17-2199.08,"Robotics Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",6.67
+17-2199.09,"Nanosystems Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",8.33
+17-2199.09,"Nanosystems Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.17
+17-2199.09,"Nanosystems Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",37.5
+17-2199.09,"Nanosystems Engineers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",8.33
+17-2199.09,"Nanosystems Engineers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4.17
+17-2199.09,"Nanosystems Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",29.17
+17-2199.09,"Nanosystems Engineers",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",8.33
+17-2199.10,"Wind Energy Engineers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1.59
+17-2199.10,"Wind Energy Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",3.94
+17-2199.10,"Wind Energy Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",69.64
+17-2199.10,"Wind Energy Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",5.67
+17-2199.10,"Wind Energy Engineers",2.D.1,"Required Level of Education",8,"Master's Degree",13.92
+17-2199.10,"Wind Energy Engineers",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",2.86
+17-2199.10,"Wind Energy Engineers",2.D.1,"Required Level of Education",11,"Doctoral Degree",2.39
+17-2199.11,"Solar Energy Systems Engineers",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",4.55
+17-2199.11,"Solar Energy Systems Engineers",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.55
+17-2199.11,"Solar Energy Systems Engineers",2.D.1,"Required Level of Education",4,"Some College Courses",4.55
+17-2199.11,"Solar Energy Systems Engineers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.55
+17-2199.11,"Solar Energy Systems Engineers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",72.73
+17-2199.11,"Solar Energy Systems Engineers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",9.09
+17-3013.00,"Mechanical Drafters",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",7.98
+17-3013.00,"Mechanical Drafters",2.D.1,"Required Level of Education",4,"Some College Courses",7.45
+17-3013.00,"Mechanical Drafters",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",61.28
+17-3013.00,"Mechanical Drafters",2.D.1,"Required Level of Education",6,"Bachelor's Degree",20.25
+17-3013.00,"Mechanical Drafters",2.D.1,"Required Level of Education",8,"Master's Degree",2.8
+17-3013.00,"Mechanical Drafters",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",0.13
+17-3013.00,"Mechanical Drafters",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",0.13
+17-3021.00,"Aerospace Engineering and Operations Technologists and Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",19.69
+17-3021.00,"Aerospace Engineering and Operations Technologists and Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",39.23
+17-3021.00,"Aerospace Engineering and Operations Technologists and Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",33.16
+17-3021.00,"Aerospace Engineering and Operations Technologists and Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",7.92
+17-3022.00,"Civil Engineering Technologists and Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",2.65
+17-3022.00,"Civil Engineering Technologists and Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",29.77
+17-3022.00,"Civil Engineering Technologists and Technicians",2.D.1,"Required Level of Education",4,"Some College Courses",28.09
+17-3022.00,"Civil Engineering Technologists and Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",21.15
+17-3022.00,"Civil Engineering Technologists and Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",18.34
+17-3024.00,"Electro-Mechanical and Mechatronics Technologists and Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",12.65
+17-3024.00,"Electro-Mechanical and Mechatronics Technologists and Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",29.67
+17-3024.00,"Electro-Mechanical and Mechatronics Technologists and Technicians",2.D.1,"Required Level of Education",4,"Some College Courses",13.42
+17-3024.00,"Electro-Mechanical and Mechatronics Technologists and Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",41.04
+17-3024.00,"Electro-Mechanical and Mechatronics Technologists and Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",3.22
+17-3024.01,"Robotics Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",9.09
+17-3024.01,"Robotics Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",22.73
+17-3024.01,"Robotics Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",45.45
+17-3024.01,"Robotics Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",18.18
+17-3024.01,"Robotics Technicians",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.55
+17-3025.00,"Environmental Engineering Technologists and Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",10.79
+17-3025.00,"Environmental Engineering Technologists and Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",8.19
+17-3025.00,"Environmental Engineering Technologists and Technicians",2.D.1,"Required Level of Education",4,"Some College Courses",6.64
+17-3025.00,"Environmental Engineering Technologists and Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",1.46
+17-3025.00,"Environmental Engineering Technologists and Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",67.31
+17-3025.00,"Environmental Engineering Technologists and Technicians",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.74
+17-3025.00,"Environmental Engineering Technologists and Technicians",2.D.1,"Required Level of Education",8,"Master's Degree",0.88
+17-3026.00,"Industrial Engineering Technologists and Technicians",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",9.68
+17-3026.00,"Industrial Engineering Technologists and Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",11.96
+17-3026.00,"Industrial Engineering Technologists and Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1.25
+17-3026.00,"Industrial Engineering Technologists and Technicians",2.D.1,"Required Level of Education",4,"Some College Courses",36.92
+17-3026.00,"Industrial Engineering Technologists and Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",25.54
+17-3026.00,"Industrial Engineering Technologists and Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",14.65
+17-3027.00,"Mechanical Engineering Technologists and Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",3.77
+17-3027.00,"Mechanical Engineering Technologists and Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",23.35
+17-3027.00,"Mechanical Engineering Technologists and Technicians",2.D.1,"Required Level of Education",4,"Some College Courses",5.46
+17-3027.00,"Mechanical Engineering Technologists and Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",16.5
+17-3027.00,"Mechanical Engineering Technologists and Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50.92
+17-3027.01,"Automotive Engineering Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",3.7
+17-3027.01,"Automotive Engineering Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",14.81
+17-3027.01,"Automotive Engineering Technicians",2.D.1,"Required Level of Education",4,"Some College Courses",3.7
+17-3027.01,"Automotive Engineering Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",37.04
+17-3027.01,"Automotive Engineering Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",29.63
+17-3027.01,"Automotive Engineering Technicians",2.D.1,"Required Level of Education",8,"Master's Degree",11.11
+17-3029.01,"Non-Destructive Testing Specialists",2.D.1,"Required Level of Education",1,"Less than a High School Diploma",5
+17-3029.01,"Non-Destructive Testing Specialists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",40
+17-3029.01,"Non-Destructive Testing Specialists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",10
+17-3029.01,"Non-Destructive Testing Specialists",2.D.1,"Required Level of Education",4,"Some College Courses",5
+17-3029.01,"Non-Destructive Testing Specialists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",25
+17-3029.01,"Non-Destructive Testing Specialists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",15
+17-3029.08,"Photonics Technicians",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",12
+17-3029.08,"Photonics Technicians",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",12
+17-3029.08,"Photonics Technicians",2.D.1,"Required Level of Education",4,"Some College Courses",16
+17-3029.08,"Photonics Technicians",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",32
+17-3029.08,"Photonics Technicians",2.D.1,"Required Level of Education",6,"Bachelor's Degree",12
+17-3029.08,"Photonics Technicians",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",8
+17-3029.08,"Photonics Technicians",2.D.1,"Required Level of Education",8,"Master's Degree",8
+19-1011.00,"Animal Scientists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",11.11
+19-1011.00,"Animal Scientists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.7
+19-1011.00,"Animal Scientists",2.D.1,"Required Level of Education",8,"Master's Degree",25.93
+19-1011.00,"Animal Scientists",2.D.1,"Required Level of Education",11,"Doctoral Degree",51.85
+19-1011.00,"Animal Scientists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",7.41
+19-1012.00,"Food Scientists and Technologists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",56.52
+19-1012.00,"Food Scientists and Technologists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",8.7
+19-1012.00,"Food Scientists and Technologists",2.D.1,"Required Level of Education",8,"Master's Degree",8.7
+19-1012.00,"Food Scientists and Technologists",2.D.1,"Required Level of Education",11,"Doctoral Degree",13.04
+19-1012.00,"Food Scientists and Technologists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",13.04
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.76
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.76
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",23.81
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.76
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",8,"Master's Degree",28.57
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4.76
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4.76
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",11,"Doctoral Degree",19.05
+19-1013.00,"Soil and Plant Scientists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",4.76
+19-1021.00,"Biochemists and Biophysicists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",25
+19-1021.00,"Biochemists and Biophysicists",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",10
+19-1021.00,"Biochemists and Biophysicists",2.D.1,"Required Level of Education",11,"Doctoral Degree",25
+19-1021.00,"Biochemists and Biophysicists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",40
+19-1022.00,Microbiologists,2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.35
+19-1022.00,Microbiologists,2.D.1,"Required Level of Education",6,"Bachelor's Degree",47.83
+19-1022.00,Microbiologists,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",17.39
+19-1022.00,Microbiologists,2.D.1,"Required Level of Education",8,"Master's Degree",13.04
+19-1022.00,Microbiologists,2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4.35
+19-1022.00,Microbiologists,2.D.1,"Required Level of Education",11,"Doctoral Degree",4.35
+19-1022.00,Microbiologists,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",8.7
+19-1023.00,"Zoologists and Wildlife Biologists",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",0.99
+19-1023.00,"Zoologists and Wildlife Biologists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",42.37
+19-1023.00,"Zoologists and Wildlife Biologists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.23
+19-1023.00,"Zoologists and Wildlife Biologists",2.D.1,"Required Level of Education",8,"Master's Degree",34.8
+19-1023.00,"Zoologists and Wildlife Biologists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4.23
+19-1023.00,"Zoologists and Wildlife Biologists",2.D.1,"Required Level of Education",11,"Doctoral Degree",12.69
+19-1023.00,"Zoologists and Wildlife Biologists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",0.69
+19-1029.01,"Bioinformatics Scientists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",33.61
+19-1029.01,"Bioinformatics Scientists",2.D.1,"Required Level of Education",8,"Master's Degree",16.32
+19-1029.01,"Bioinformatics Scientists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",3.85
+19-1029.01,"Bioinformatics Scientists",2.D.1,"Required Level of Education",11,"Doctoral Degree",13.88
+19-1029.01,"Bioinformatics Scientists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",32.34
+19-1029.02,"Molecular and Cellular Biologists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",34.62
+19-1029.02,"Molecular and Cellular Biologists",2.D.1,"Required Level of Education",8,"Master's Degree",7.69
+19-1029.02,"Molecular and Cellular Biologists",2.D.1,"Required Level of Education",11,"Doctoral Degree",23.08
+19-1029.02,"Molecular and Cellular Biologists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",34.62
+19-1029.03,Geneticists,2.D.1,"Required Level of Education",6,"Bachelor's Degree",4
+19-1029.03,Geneticists,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4
+19-1029.03,Geneticists,2.D.1,"Required Level of Education",8,"Master's Degree",32
+19-1029.03,Geneticists,2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4
+19-1029.03,Geneticists,2.D.1,"Required Level of Education",11,"Doctoral Degree",20
+19-1029.03,Geneticists,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",36
+19-1029.04,Biologists,2.D.1,"Required Level of Education",6,"Bachelor's Degree",32.2
+19-1029.04,Biologists,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",10.49
+19-1029.04,Biologists,2.D.1,"Required Level of Education",8,"Master's Degree",56.93
+19-1029.04,Biologists,2.D.1,"Required Level of Education",11,"Doctoral Degree",0.38
+19-1031.02,"Range Managers",2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",9.73
+19-1031.02,"Range Managers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",80.34
+19-1031.02,"Range Managers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",0.79
+19-1031.02,"Range Managers",2.D.1,"Required Level of Education",8,"Master's Degree",9.15
+19-1031.03,"Park Naturalists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",94.85
+19-1031.03,"Park Naturalists",2.D.1,"Required Level of Education",8,"Master's Degree",5.15
+19-1032.00,Foresters,2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",6.39
+19-1032.00,Foresters,2.D.1,"Required Level of Education",4,"Some College Courses",5.57
+19-1032.00,Foresters,2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",6.51
+19-1032.00,Foresters,2.D.1,"Required Level of Education",6,"Bachelor's Degree",78.8
+19-1032.00,Foresters,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",2.48
+19-1032.00,Foresters,2.D.1,"Required Level of Education",8,"Master's Degree",0.24
+19-1041.00,Epidemiologists,2.D.1,"Required Level of Education",6,"Bachelor's Degree",6.67
+19-1041.00,Epidemiologists,2.D.1,"Required Level of Education",8,"Master's Degree",60
+19-1041.00,Epidemiologists,2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",3.33
+19-1041.00,Epidemiologists,2.D.1,"Required Level of Education",11,"Doctoral Degree",23.33
+19-1041.00,Epidemiologists,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",6.67
+19-1042.00,"Medical Scientists, Except Epidemiologists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",7.95
+19-1042.00,"Medical Scientists, Except Epidemiologists",2.D.1,"Required Level of Education",8,"Master's Degree",24.59
+19-1042.00,"Medical Scientists, Except Epidemiologists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",6.85
+19-1042.00,"Medical Scientists, Except Epidemiologists",2.D.1,"Required Level of Education",11,"Doctoral Degree",35.91
+19-1042.00,"Medical Scientists, Except Epidemiologists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",24.7
+19-2011.00,Astronomers,2.D.1,"Required Level of Education",6,"Bachelor's Degree",4.55
+19-2011.00,Astronomers,2.D.1,"Required Level of Education",8,"Master's Degree",4.55
+19-2011.00,Astronomers,2.D.1,"Required Level of Education",11,"Doctoral Degree",27.27
+19-2011.00,Astronomers,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",63.64
+19-2012.00,Physicists,2.D.1,"Required Level of Education",6,"Bachelor's Degree",3.77
+19-2012.00,Physicists,2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",8.14
+19-2012.00,Physicists,2.D.1,"Required Level of Education",11,"Doctoral Degree",49.04
+19-2012.00,Physicists,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",39.06
+19-2021.00,"Atmospheric and Space Scientists",2.D.1,"Required Level of Education",4,"Some College Courses",5
+19-2021.00,"Atmospheric and Space Scientists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50
+19-2021.00,"Atmospheric and Space Scientists",2.D.1,"Required Level of Education",8,"Master's Degree",30
+19-2021.00,"Atmospheric and Space Scientists",2.D.1,"Required Level of Education",11,"Doctoral Degree",15
+19-2031.00,Chemists,2.D.1,"Required Level of Education",5,"Associate's Degree (or other 2-year degree)",4.38
+19-2031.00,Chemists,2.D.1,"Required Level of Education",6,"Bachelor's Degree",85.77
+19-2031.00,Chemists,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",2.03
+19-2031.00,Chemists,2.D.1,"Required Level of Education",8,"Master's Degree",6.67
+19-2031.00,Chemists,2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",0.58
+19-2031.00,Chemists,2.D.1,"Required Level of Education",11,"Doctoral Degree",0.58
+19-2032.00,"Materials Scientists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",4.76
+19-2032.00,"Materials Scientists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",38.1
+19-2032.00,"Materials Scientists",2.D.1,"Required Level of Education",8,"Master's Degree",23.81
+19-2032.00,"Materials Scientists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",9.52
+19-2032.00,"Materials Scientists",2.D.1,"Required Level of Education",11,"Doctoral Degree",23.81
+19-2041.00,"Environmental Scientists and Specialists, Including Health",2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",0.64
+19-2041.00,"Environmental Scientists and Specialists, Including Health",2.D.1,"Required Level of Education",4,"Some College Courses",0.73
+19-2041.00,"Environmental Scientists and Specialists, Including Health",2.D.1,"Required Level of Education",6,"Bachelor's Degree",69.7
+19-2041.00,"Environmental Scientists and Specialists, Including Health",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",0.22
+19-2041.00,"Environmental Scientists and Specialists, Including Health",2.D.1,"Required Level of Education",8,"Master's Degree",26.06
+19-2041.00,"Environmental Scientists and Specialists, Including Health",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",2.22
+19-2041.00,"Environmental Scientists and Specialists, Including Health",2.D.1,"Required Level of Education",11,"Doctoral Degree",0.43
+19-2041.01,"Climate Change Policy Analysts",2.D.1,"Required Level of Education",6,"Bachelor's Degree",13.04
+19-2041.01,"Climate Change Policy Analysts",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.35
+19-2041.01,"Climate Change Policy Analysts",2.D.1,"Required Level of Education",8,"Master's Degree",60.87
+19-2041.01,"Climate Change Policy Analysts",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4.35
+19-2041.01,"Climate Change Policy Analysts",2.D.1,"Required Level of Education",11,"Doctoral Degree",13.04
+19-2041.01,"Climate Change Policy Analysts",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",4.35
+19-2041.02,"Environmental Restoration Planners",2.D.1,"Required Level of Education",6,"Bachelor's Degree",50
+19-2041.02,"Environmental Restoration Planners",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",9.09
+19-2041.02,"Environmental Restoration Planners",2.D.1,"Required Level of Education",8,"Master's Degree",40.91
+19-2041.03,"Industrial Ecologists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",21.74
+19-2041.03,"Industrial Ecologists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.35
+19-2041.03,"Industrial Ecologists",2.D.1,"Required Level of Education",8,"Master's Degree",65.22
+19-2041.03,"Industrial Ecologists",2.D.1,"Required Level of Education",11,"Doctoral Degree",8.7
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",37.5
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",3.12
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",2.D.1,"Required Level of Education",8,"Master's Degree",43.75
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",2.D.1,"Required Level of Education",11,"Doctoral Degree",9.38
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",6.25
+19-2043.00,Hydrologists,2.D.1,"Required Level of Education",6,"Bachelor's Degree",39.13
+19-2043.00,Hydrologists,2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.35
+19-2043.00,Hydrologists,2.D.1,"Required Level of Education",8,"Master's Degree",52.17
+19-2043.00,Hydrologists,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",4.35
+19-2099.01,"Remote Sensing Scientists and Technologists",2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",3.57
+19-2099.01,"Remote Sensing Scientists and Technologists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",21.43
+19-2099.01,"Remote Sensing Scientists and Technologists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",7.14
+19-2099.01,"Remote Sensing Scientists and Technologists",2.D.1,"Required Level of Education",8,"Master's Degree",35.71
+19-2099.01,"Remote Sensing Scientists and Technologists",2.D.1,"Required Level of Education",11,"Doctoral Degree",25
+19-2099.01,"Remote Sensing Scientists and Technologists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",7.14
+19-3011.00,Economists,2.D.1,"Required Level of Education",8,"Master's Degree",30.43
+19-3011.00,Economists,2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4.35
+19-3011.00,Economists,2.D.1,"Required Level of Education",11,"Doctoral Degree",60.87
+19-3011.00,Economists,2.D.1,"Required Level of Education",12,"Post-Doctoral Training",4.35
+19-3011.01,"Environmental Economists",2.D.1,"Required Level of Education",6,"Bachelor's Degree",11.11
+19-3011.01,"Environmental Economists",2.D.1,"Required Level of Education",8,"Master's Degree",40.74
+19-3011.01,"Environmental Economists",2.D.1,"Required Level of Education",11,"Doctoral Degree",44.44
+19-3011.01,"Environmental Economists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",3.7
+19-3022.00,"Survey Researchers",2.D.1,"Required Level of Education",6,"Bachelor's Degree",45.83
+19-3022.00,"Survey Researchers",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",4.17
+19-3022.00,"Survey Researchers",2.D.1,"Required Level of Education",8,"Master's Degree",37.5
+19-3022.00,"Survey Researchers",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",4.17
+19-3022.00,"Survey Researchers",2.D.1,"Required Level of Education",11,"Doctoral Degree",4.17
+19-3022.00,"Survey Researchers",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",4.17
+19-3032.00,"Industrial-Organizational Psychologists",2.D.1,"Required Level of Education",8,"Master's Degree",46.92
+19-3032.00,"Industrial-Organizational Psychologists",2.D.1,"Required Level of Education",11,"Doctoral Degree",47.68
+19-3032.00,"Industrial-Organizational Psychologists",2.D.1,"Required Level of Education",12,"Post-Doctoral Training",5.39
+19-3034.00,"School Psychologists",2.D.1,"Required Level of Education",7,"Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.",0.09
+19-3034.00,"School Psychologists",2.D.1,"Required Level of Education",8,"Master's Degree",46.42
+19-3034.00,"School Psychologists",2.D.1,"Required Level of Education",9,"Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.",53.03
+19-3034.00,"School Psychologists",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",0.46
+19-3041.00,Sociologists,2.D.1,"Required Level of Education",8,"Master's Degree",22.73
+19-3041.00,Sociologists,2.D.1,"Required Level of Education",11,"Doctoral Degree",77.27
+19-3051.00,"Urban and Regional Planners",2.D.1,"Required Level of Education",6,"Bachelor's Degree",40
+19-3051.00,"Urban and Regional Planners",2.D.1,"Required Level of Education",8,"Master's Degree",56
+19-3051.00,"Urban and Regional Planners",2.D.1,"Required Level of Education",10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",4
+19-3092.00,Geographers,2.D.1,"Required Level of Education",6,"Bachelor's Degree",43.48
+19-3092.00,Geographers,2.D.1,"Required Level of Education",8,"Master's Degree",34.78
+19-3092.00,Geographers,2.D.1,"Required Level of Education",11,"Doctoral Degree",21.74
+19-3093.00,Historians,2.D.1,"Required Level of Education",1,"Less than a High School Diploma",8.98
+19-3093.00,Historians,2.D.1,"Required Level of Education",2,"High School Diploma - or the equivalent (for example, GED)",9.43
+19-3093.00,Historians,2.D.1,"Required Level of Education",3,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",15.24
+19-3093.00,Historians,2.D.1,"Required Level of Education",4,"Some College Courses",17.95
